@@ -1,0 +1,32 @@
+Clown Loach.png
+size:512,256
+filter:Linear,Linear
+pma:true
+Duoi
+bounds:247,102,104,135
+offsets:1,1,106,137
+Fin duoi 1
+bounds:353,105,58,28
+offsets:1,1,60,30
+rotate:90
+Fin duoi 2
+bounds:247,2,38,29
+offsets:1,1,40,31
+Fin tren
+bounds:247,33,96,67
+Layer 7
+bounds:411,174,49,63
+offsets:1,1,51,66
+Layer 8
+bounds:383,113,50,35
+rotate:90
+Layer 9
+bounds:353,165,56,72
+offsets:1,0,58,72
+Than
+bounds:2,9,243,228
+offsets:0,8,243,236
+Vay
+bounds:462,172,65,42
+offsets:1,2,68,46
+rotate:90

@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LuckyWheel
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 53
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: a3c556b03b971e14c91998e551deb51e, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 35a543435ff3be745b7a3cdaa58f46ad, type: 3}
+  - {fileID: 21300000, guid: 796be6831e440464fb45b8edb57e6e02, type: 3}
+  - {fileID: 21300000, guid: 38afa8354427cf241928dbaa60355527, type: 3}
+  - {fileID: 21300000, guid: 8153e5458ca14b84c90ae589b71305e8, type: 3}
+  - {fileID: 21300000, guid: 915c4cd55c7c38c42be0ae4cf75e002b, type: 3}
+  - {fileID: 21300000, guid: 63ce6906bd38bd947a9e466bc478e573, type: 3}
+  - {fileID: 21300000, guid: 73bfc3e72172dcf4b95aad258fd93b91, type: 3}
+  - {fileID: 21300000, guid: 1004dd484c1e6254eb6ed16f4f1b5f32, type: 3}
+  - {fileID: 21300000, guid: 547d80699a5a94f47a60c1a538fc86b7, type: 3}
+  - {fileID: 21300000, guid: 9e93631b4e737124f91b90ef27306b33, type: 3}
+  - {fileID: 21300000, guid: fffa8f6c187b1794fa451e261e2a550c, type: 3}
+  - {fileID: 21300000, guid: c2279f9cdad60ad4fab54afe6e515fce, type: 3}
+  - {fileID: 21300000, guid: 667e7afe228005548881597cb0c98705, type: 3}
+  - {fileID: 21300000, guid: cbf6494f64b562242be78e7ddca0fcb9, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - reward_bar_off
+  - reward_board
+  - pack_2
+  - wheel_top
+  - btn_freespin
+  - btn_spin
+  - reward_bg_get
+  - reward_bg
+  - title_lucky
+  - wheel_bottom
+  - reward_bar_on
+  - daily_spin_flag
+  - Progress_current
+  - box_5 (1)
+  m_RenderDataMap: {}
+  m_Tag: LuckyWheel
+  m_IsVariant: 0

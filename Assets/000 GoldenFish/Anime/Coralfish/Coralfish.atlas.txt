@@ -1,0 +1,23 @@
+Coralfish.png
+size:512,256
+filter:Linear,Linear
+pma:true
+Duoi
+bounds:232,149,54,90
+offsets:1,1,56,92
+Layer 10
+bounds:232,48,50,37
+offsets:0,3,50,40
+Layer 8
+bounds:232,87,52,60
+offsets:1,1,54,62
+Layer 9
+bounds:288,171,56,68
+Than
+bounds:2,32,228,207
+Vay
+bounds:346,193,44,46
+offsets:1,1,46,48
+Vay tren
+bounds:2,2,216,28
+offsets:1,1,218,30

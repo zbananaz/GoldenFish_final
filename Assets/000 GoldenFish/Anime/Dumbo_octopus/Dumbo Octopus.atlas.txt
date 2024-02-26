@@ -1,0 +1,28 @@
+Dumbo Octopus.png
+size:512,256
+filter:Linear,Linear
+pma:true
+Layer 4
+bounds:182,27,43,57
+offsets:1,1,45,59
+rotate:90
+Layer 6
+bounds:2,2,51,68
+offsets:1,2,54,72
+Layer 7
+bounds:241,38,59,32
+offsets:1,1,61,35
+Tai
+bounds:55,27,65,43
+offsets:1,2,68,46
+Tai sau
+bounds:122,24,46,58
+offsets:1,1,48,61
+rotate:90
+Than
+bounds:305,11,214,176
+offsets:1,1,216,178
+rotate:90
+Than duoi
+bounds:2,72,301,153
+offsets:0,0,301,160

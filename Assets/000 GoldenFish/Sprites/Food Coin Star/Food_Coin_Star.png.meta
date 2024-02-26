@@ -1,0 +1,3567 @@
+fileFormatVersion: 2
+guid: a305e9ad5e6f84ba198b5090ea61d52b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Food_Coin_Star_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 264
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28bbefef92bc54ccaad2e59da1aa94a3
+      internalID: -1172795005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 264
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f717e28763324417bfe0f7e87d1c5d7
+      internalID: 1696996520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 264
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b32083b365bf447a876f00e83a02469
+      internalID: -2081788821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_3
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 266
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2741e862d294014ae200ac78f9b615
+      internalID: -1926354132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_4
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 271
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78f54eb1defc44b181ae29dbe5767b1
+      internalID: 161194686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_5
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 276
+        width: 30
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38115ac3776f7461ea0e0b8f16b98cee
+      internalID: 347634631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_6
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 270
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a200bb3237b324271af5731186c13095
+      internalID: -714960540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_7
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 266
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760ff5a3527e04c9c958721e66ccc21f
+      internalID: -263337292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_8
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 264
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa7390f45a684478b1864c6aabbaf76
+      internalID: 1228795999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_9
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 264
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29fba94b4fa3945b18474f306637580a
+      internalID: -1316749763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_10
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 275
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c18d8d25063498897711abbc24af6d
+      internalID: 1687625843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_11
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 275
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ddb68adc3784fb0aab8e7d37f55eab
+      internalID: -864736777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_12
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 274
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a276b9e4415a4d67a0b90a182e28b3c
+      internalID: -2092033947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_13
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 274
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d9195af39234c38ae5837abd5e1bd3
+      internalID: 1332812320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_14
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 273
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe841b84adb84000a13f472b5a6f7d8
+      internalID: -1607096172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_15
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 273
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af52c657cc08746dd9e4326590ee4407
+      internalID: 1105798198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_16
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 273
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e6da48a29e540ad8df35519f01cdd4
+      internalID: -47730132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_17
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 274
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f8ba54119244298b8d1cc2d7f58990
+      internalID: 116848260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_18
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 274
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3427e9c153047429c8eb25c14a783061
+      internalID: -379272886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_19
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 275
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a8161da238c421f868bddee936cb49
+      internalID: 2083094256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_20
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 241
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20bf43c520cd94bbfb5dad853d5a5c9c
+      internalID: 1191711368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_21
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 239
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4d98fb624454157a228d8582eb7faf
+      internalID: -568513420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_22
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 218
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0087b341107ff44349b8a177bd737e82
+      internalID: 457981470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_23
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 218
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb63b5ec52a54c83ba3682e0bc5389c
+      internalID: 540256976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_24
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 218
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfca5e2f727084feea380a2baf3ac7dc
+      internalID: 858351826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_25
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 220
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa74c18d60454a6fa3aa07033bd7fa2
+      internalID: 102490394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_26
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 225
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e71f810ba47f459083be7c61ffb467b
+      internalID: 260722986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_27
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 230
+        width: 30
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc50bd04bbdf74ce99627ee1db571eb8
+      internalID: 1470242032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_28
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 224
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ceeb059f84ab44fba4067aeeeb2ed9c
+      internalID: 605347046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_29
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 220
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b5147cd31074e2fa258e2f1f4529de
+      internalID: -389167405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_30
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 218
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84f63b851e044c52b09059629e12945
+      internalID: 263002467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_31
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 218
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95527237017a848528e589ce6d044d7e
+      internalID: 609490849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_32
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 231
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc96c1a6b39b64797ba0cefa8a43bdf4
+      internalID: 872244639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_33
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 231
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f496f3e8ff08a40df95c9e44cf45a206
+      internalID: -648756789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_34
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 231
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567c76b11c2c2443b943a63a1f418029
+      internalID: -1744359602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_35
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 232
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3572516aae1fd4fd9b7408e7ee947c4d
+      internalID: -963387794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_36
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 232
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571098477be2e46298a6dd05aaaa0f54
+      internalID: -1020069647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_37
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 232
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e59eaadadff40788ff147212215f4c
+      internalID: -640148576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_38
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 232
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8486847951172441a9afbaacba094620
+      internalID: 2120487052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_39
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 232
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615392217777940f8baa3527a06a0d9f
+      internalID: -2023853309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_40
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 231
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669491a65b197462f935b7f6ac87e389
+      internalID: -1429957110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_41
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 231
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6267e78ca5d474caae25493ecc615c
+      internalID: -616254925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 163
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f1bb6decc52407f94623cdf5962903
+      internalID: 297706342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_43
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 163
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400bcc47fabdf466ab98541b4be128ce
+      internalID: 2062667157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_44
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 163
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd32bed5fac284e7389d59b5836d15a6
+      internalID: -1124913556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_45
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 162
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dda40ad481174df58afc3de3904bbb1
+      internalID: -1747690714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_46
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 163
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcff30f5bdd3345a6b94e908f7b612ad
+      internalID: 381184373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_47
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 163
+        width: 10
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637dc1978c384431aaf113ac2031507f
+      internalID: -1410039482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_48
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 163
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a008681743b9e4734b0f02ca698580a1
+      internalID: -11291500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_49
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 162
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2482790a9aa2b4b6d9b4618e1aa55e63
+      internalID: 644364131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_50
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 163
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e937ca013f4de40cc9ae3f59e5ac6b48
+      internalID: -1139743657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_51
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 163
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a2ae6da59e44131b2b68fda358c3bc
+      internalID: 2109028722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_52
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 200
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792579026a59649f9be5982578a79ffb
+      internalID: -554727593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_53
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 200
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe8d5b8429ad41cd9caa7e096e5e910
+      internalID: 1656142763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_54
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 201
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395474af491ec44c9b5529aacf7ed664
+      internalID: 1281508570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_55
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 200
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ae1de8e82c64a16bcb8a53ced5d148
+      internalID: -1586551439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_56
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 199
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11eb69e6a4c784716bfc32427ff53c11
+      internalID: 1807897358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_57
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 199
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9faa8489c5bb74d6a9b71c9cb2a61627
+      internalID: 655882392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_58
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 199
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: accb23c04683b43d390fafb0a2a4c4a2
+      internalID: 1897726707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_59
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 200
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f41df73947b4478abc0c3b005c2394
+      internalID: 1538797582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_60
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 201
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e504ebd0e95848a689459dd363c43f6
+      internalID: -323250733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_61
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 200
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e46c3d14ccb44e696ff75bef917de4
+      internalID: -427234172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_62
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 184
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bca869cdc2824e66851776007e9d1df
+      internalID: 1451332724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_63
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 187
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65cd22bfe35234d6183cf9830f982b15
+      internalID: 2118106269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_64
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 157
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4abdfe0292a1842e2a1c79ad4097c84a
+      internalID: 1263341243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_65
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 157
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09c7d14546824187ba71578acbdd35a
+      internalID: 704041792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_66
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 157
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99cef36739ba64396b3cdc4399b83d43
+      internalID: -1919793967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_67
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 157
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c64a3eb3dc974ed295fcf62651ed6cc
+      internalID: -179689097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_68
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 157
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d12688eca5ce405c9f2ad338dd6b636
+      internalID: -216708043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_69
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 158
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19aff6a09568846cc977ea1297304976
+      internalID: 837499505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_70
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 158
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b792a38130cce425399f7145b6fbc9ae
+      internalID: 958532728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_71
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 158
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb3cacbabf514f9eba84a1319d4a631
+      internalID: 815559988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_72
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 157
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a00b500b398438da4e31e84761321f
+      internalID: 119240501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_73
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 157
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220ed7d03d4294d2b85bcaa4538feadc
+      internalID: -1603930893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_74
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 120
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826f59acf150041b1a794627ed65511c
+      internalID: 1051128924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_75
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 120
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f33d6e37fb742eab72fb67815157e5
+      internalID: -1778789966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_76
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 114
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbf5fee3fa9741258bbd8ad99aaa013
+      internalID: -26904931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_77
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 114
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf909d3181a1c48cc9961423cb951d82
+      internalID: 1975750279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_78
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 114
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e0598e026774d888775aba4822d5d5
+      internalID: -1601282215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_79
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 114
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9648f715ca53a4cf8ab9bc974504034c
+      internalID: -1391732355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_80
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 114
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e0ea65500fb4f34832a9720e00a525
+      internalID: 542895284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_81
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 114
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0ac9fd32f8540c5b9f10e6e9ca5870
+      internalID: -1295626953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_82
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 114
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565a092395b194c13a73f9085a61e6a8
+      internalID: -314394918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_83
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 114
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171ace16337784194acf750afc6c8cfd
+      internalID: 255931685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_84
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 114
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bed14a80ac64468a1ba3a63c0c1537
+      internalID: -1805998129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_85
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 114
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105d178a6b00848e3a4f01db13f5e65c
+      internalID: -1703621347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_86
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 113
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a1301ea68584ef0aa5b3e1e0648119
+      internalID: 756249000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_87
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 113
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c417280b0c584c3ea9113c7590bf378
+      internalID: -179203796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_88
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 112
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791e59437eae14922bea2c0a0840b866
+      internalID: -1345637226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_89
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 112
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7abbea849a0244459e9d57062b751fa
+      internalID: 1748829941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_90
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 113
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e07f60ba4312460ca30cffe171b4e09
+      internalID: 513090653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_91
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 113
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36a515765ebe4dd3bee2b505ca72c54
+      internalID: 606227253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_92
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 114
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818f7919f0dda446a976296619f7d678
+      internalID: -1958932084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_93
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 114
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeab03d36bcdf4d73a9ffa3fd76f74c3
+      internalID: -1659042982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_94
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 114
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d1f7f553ef647c987eeb373361ac88
+      internalID: 453469187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_95
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 114
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3e8d82296024edcb201f1f75f464a1
+      internalID: 1074238082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_96
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 69
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38515d3bf0b694377bf321c852361185
+      internalID: 825754902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_97
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 69
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe9ebb91b2214c969ec8ca73edd17a6
+      internalID: 578517278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_98
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 68
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfceaf787376049c68d45b8cb271d33d
+      internalID: -1666976773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_99
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 68
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf81dd7295874ce7a94c45c74a967ea
+      internalID: 784464529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_100
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 68
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8bf5c732e6b443c95cf15f7492c9e6
+      internalID: -297996598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_101
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 68
+        width: 8
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c9dd9ae945f41338ca6becd815f1a3
+      internalID: -671552159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_102
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 68
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0863204095e0f41d8a69e9ef6e0b2967
+      internalID: 714115375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_103
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 68
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6f4ffd549d74b439979d5f1cf0334b
+      internalID: -820216174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_104
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 68
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698d572e344ab4de8995dad6139b3bce
+      internalID: 815502108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_105
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 68
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c563ff7f61da34c4f9aa72d9eef6c9ba
+      internalID: -2018966169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_106
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 68
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01582baf3b38244a3a2d2742bff54cbc
+      internalID: 937263919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_107
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 68
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1717aba5085e34d928ab19ba7a5cc25b
+      internalID: 1486738936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_108
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 69
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f12bd3bd76742ae950bc9c528e0d38
+      internalID: 96495602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_109
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 68
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5ce920a74c248fbafdadaa7c5f1afe
+      internalID: 519913639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_110
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 69
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02dc8908705b4981bc5bfc5390abde8
+      internalID: 1231452680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_111
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 69
+        width: 8
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b82ebc4621a249d688ce66dc2b2aea5
+      internalID: -1438542747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_112
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 69
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f9d3848951140f58c4b9fad50975a2
+      internalID: 71261000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_113
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 69
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9da881791824288b0853ae69d95c12
+      internalID: 683141072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_114
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 69
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22fa6b1f8ed6241119b67abc36fc753f
+      internalID: 272333980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_115
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 69
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6759b55b3c84a5e80ea718548226c5
+      internalID: -1634409734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_116
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 37
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9b1a07f5bfa458bb31fa516e80c2bb
+      internalID: -975322970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_117
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 37
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c139e86852acb40d794b06e964919a0e
+      internalID: 1574288764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_118
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 36
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2992f9b304b1749d4b62527e51f56a8b
+      internalID: -1358882677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_119
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 36
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637efe3bff164459389959764adc104e
+      internalID: -752110766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_120
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 36
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24bc84f2ec9324ccba1962a7d041fe43
+      internalID: -702018322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_121
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 36
+        width: 8
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce15358ef46444a099628773b8c88f5
+      internalID: -1106841670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_122
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 36
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01076a238ce0346fc9938f10b7bf14ee
+      internalID: 478575407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_123
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 36
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1a5176dfba24eec88c662a2c829931
+      internalID: 1616694618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_124
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 36
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59e0754f17f94ddc9908929ded92a87
+      internalID: -1187518680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_125
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 36
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61633724e895248a38e1e4913a2bbd67
+      internalID: -1632375916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_126
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 36
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e74de443e6945c1b7c5f27b436a14b
+      internalID: 1240447492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_127
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 36
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785457d2d07a448c598d7674d74b9a8d
+      internalID: -1067244366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_128
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 37
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3161c10d3c1d4cf1990b71ee2d083a6
+      internalID: -300987822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_129
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 37
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58cdea506cce04bbab0f0b343071299c
+      internalID: 508328174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_130
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 37
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f223ca2e057bc4405a6095f47362df1b
+      internalID: 827399101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_131
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 37
+        width: 8
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b18447cde1846b9b5b1d5bf6b4f7ac
+      internalID: 87065629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_132
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 37
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27e315539814428aafeec23b93f3dc7
+      internalID: 2116803785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_133
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 37
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5aff982c61945318165d0d462bb38f
+      internalID: 948961750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_134
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 37
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba89b5605b0e4452cb079eb664a2d2ec
+      internalID: 943829968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_135
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 37
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f05ba586d4c435b8ae251dbd13c2a4
+      internalID: -711396275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_136
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 4
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6f44dc5960a4544bdaaad6e1984dd7
+      internalID: -155316055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_137
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 3
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c10825621c1c46f3a23489a62a4055c
+      internalID: -2119225502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_138
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 3
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25eb9528dadc4e5cb27d7354f656d42
+      internalID: 2143843865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_139
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 2
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d99da1867c34e6aa923e6fd1f7ce8d
+      internalID: 1764547448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_140
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 2
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdfbbd674b434c33b71605d0aebfbd2
+      internalID: 1351980268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_141
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 2
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712a83ab508b94484aeca62f0e276483
+      internalID: -2024906198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_142
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 2
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de20f417a779b45a790b4854a125185e
+      internalID: 2067598170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_143
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 2
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d749ab95a9f4a0ba1aaadfd99f6386
+      internalID: 36006489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_144
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 2
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef638c71fafc469fb849b44f84b28bf
+      internalID: -1535626026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_145
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 2
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ed0666939834c4f8c084c9bf98914e
+      internalID: -501069684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_146
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 2
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3ad02cfe0d94ac5bbeda9d20124e16
+      internalID: -1722900615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_147
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed1302c830b940c383dee28ffd292ce
+      internalID: -1131596245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_148
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce68244210e284295a5d4b1b5fc30a88
+      internalID: -912859591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_149
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0c273faca2c43358f89231d1de47be
+      internalID: 764527302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_150
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1d1e6b9f89449febea95b759beb15e
+      internalID: -792930071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_151
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71fd205b4928437986b79730b60e2b8
+      internalID: -282632391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_152
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 4
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db685fb4f28e4fe7bc765a10c63c4de
+      internalID: 618122434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_153
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 4
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004459f9a88b2477494e636db863f2d9
+      internalID: -1078136811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_154
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 0
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f08792379b2141cd80112b5c583d57a
+      internalID: 173248007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food_Coin_Star_155
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 3
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b118a69de4a654e78b6db1cab1df15ca
+      internalID: 519099322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Food_Coin_Star_0: -1172795005
+      Food_Coin_Star_1: 1696996520
+      Food_Coin_Star_10: 1687625843
+      Food_Coin_Star_100: -297996598
+      Food_Coin_Star_101: -671552159
+      Food_Coin_Star_102: 714115375
+      Food_Coin_Star_103: -820216174
+      Food_Coin_Star_104: 815502108
+      Food_Coin_Star_105: -2018966169
+      Food_Coin_Star_106: 937263919
+      Food_Coin_Star_107: 1486738936
+      Food_Coin_Star_108: 96495602
+      Food_Coin_Star_109: 519913639
+      Food_Coin_Star_11: -864736777
+      Food_Coin_Star_110: 1231452680
+      Food_Coin_Star_111: -1438542747
+      Food_Coin_Star_112: 71261000
+      Food_Coin_Star_113: 683141072
+      Food_Coin_Star_114: 272333980
+      Food_Coin_Star_115: -1634409734
+      Food_Coin_Star_116: -975322970
+      Food_Coin_Star_117: 1574288764
+      Food_Coin_Star_118: -1358882677
+      Food_Coin_Star_119: -752110766
+      Food_Coin_Star_12: -2092033947
+      Food_Coin_Star_120: -702018322
+      Food_Coin_Star_121: -1106841670
+      Food_Coin_Star_122: 478575407
+      Food_Coin_Star_123: 1616694618
+      Food_Coin_Star_124: -1187518680
+      Food_Coin_Star_125: -1632375916
+      Food_Coin_Star_126: 1240447492
+      Food_Coin_Star_127: -1067244366
+      Food_Coin_Star_128: -300987822
+      Food_Coin_Star_129: 508328174
+      Food_Coin_Star_13: 1332812320
+      Food_Coin_Star_130: 827399101
+      Food_Coin_Star_131: 87065629
+      Food_Coin_Star_132: 2116803785
+      Food_Coin_Star_133: 948961750
+      Food_Coin_Star_134: 943829968
+      Food_Coin_Star_135: -711396275
+      Food_Coin_Star_136: -155316055
+      Food_Coin_Star_137: -2119225502
+      Food_Coin_Star_138: 2143843865
+      Food_Coin_Star_139: 1764547448
+      Food_Coin_Star_14: -1607096172
+      Food_Coin_Star_140: 1351980268
+      Food_Coin_Star_141: -2024906198
+      Food_Coin_Star_142: 2067598170
+      Food_Coin_Star_143: 36006489
+      Food_Coin_Star_144: -1535626026
+      Food_Coin_Star_145: -501069684
+      Food_Coin_Star_146: -1722900615
+      Food_Coin_Star_147: -1131596245
+      Food_Coin_Star_148: -912859591
+      Food_Coin_Star_149: 764527302
+      Food_Coin_Star_15: 1105798198
+      Food_Coin_Star_150: -792930071
+      Food_Coin_Star_151: -282632391
+      Food_Coin_Star_152: 618122434
+      Food_Coin_Star_153: -1078136811
+      Food_Coin_Star_154: 173248007
+      Food_Coin_Star_155: 519099322
+      Food_Coin_Star_16: -47730132
+      Food_Coin_Star_17: 116848260
+      Food_Coin_Star_18: -379272886
+      Food_Coin_Star_19: 2083094256
+      Food_Coin_Star_2: -2081788821
+      Food_Coin_Star_20: 1191711368
+      Food_Coin_Star_21: -568513420
+      Food_Coin_Star_22: 457981470
+      Food_Coin_Star_23: 540256976
+      Food_Coin_Star_24: 858351826
+      Food_Coin_Star_25: 102490394
+      Food_Coin_Star_26: 260722986
+      Food_Coin_Star_27: 1470242032
+      Food_Coin_Star_28: 605347046
+      Food_Coin_Star_29: -389167405
+      Food_Coin_Star_3: -1926354132
+      Food_Coin_Star_30: 263002467
+      Food_Coin_Star_31: 609490849
+      Food_Coin_Star_32: 872244639
+      Food_Coin_Star_33: -648756789
+      Food_Coin_Star_34: -1744359602
+      Food_Coin_Star_35: -963387794
+      Food_Coin_Star_36: -1020069647
+      Food_Coin_Star_37: -640148576
+      Food_Coin_Star_38: 2120487052
+      Food_Coin_Star_39: -2023853309
+      Food_Coin_Star_4: 161194686
+      Food_Coin_Star_40: -1429957110
+      Food_Coin_Star_41: -616254925
+      Food_Coin_Star_42: 297706342
+      Food_Coin_Star_43: 2062667157
+      Food_Coin_Star_44: -1124913556
+      Food_Coin_Star_45: -1747690714
+      Food_Coin_Star_46: 381184373
+      Food_Coin_Star_47: -1410039482
+      Food_Coin_Star_48: -11291500
+      Food_Coin_Star_49: 644364131
+      Food_Coin_Star_5: 347634631
+      Food_Coin_Star_50: -1139743657
+      Food_Coin_Star_51: 2109028722
+      Food_Coin_Star_52: -554727593
+      Food_Coin_Star_53: 1656142763
+      Food_Coin_Star_54: 1281508570
+      Food_Coin_Star_55: -1586551439
+      Food_Coin_Star_56: 1807897358
+      Food_Coin_Star_57: 655882392
+      Food_Coin_Star_58: 1897726707
+      Food_Coin_Star_59: 1538797582
+      Food_Coin_Star_6: -714960540
+      Food_Coin_Star_60: -323250733
+      Food_Coin_Star_61: -427234172
+      Food_Coin_Star_62: 1451332724
+      Food_Coin_Star_63: 2118106269
+      Food_Coin_Star_64: 1263341243
+      Food_Coin_Star_65: 704041792
+      Food_Coin_Star_66: -1919793967
+      Food_Coin_Star_67: -179689097
+      Food_Coin_Star_68: -216708043
+      Food_Coin_Star_69: 837499505
+      Food_Coin_Star_7: -263337292
+      Food_Coin_Star_70: 958532728
+      Food_Coin_Star_71: 815559988
+      Food_Coin_Star_72: 119240501
+      Food_Coin_Star_73: -1603930893
+      Food_Coin_Star_74: 1051128924
+      Food_Coin_Star_75: -1778789966
+      Food_Coin_Star_76: -26904931
+      Food_Coin_Star_77: 1975750279
+      Food_Coin_Star_78: -1601282215
+      Food_Coin_Star_79: -1391732355
+      Food_Coin_Star_8: 1228795999
+      Food_Coin_Star_80: 542895284
+      Food_Coin_Star_81: -1295626953
+      Food_Coin_Star_82: -314394918
+      Food_Coin_Star_83: 255931685
+      Food_Coin_Star_84: -1805998129
+      Food_Coin_Star_85: -1703621347
+      Food_Coin_Star_86: 756249000
+      Food_Coin_Star_87: -179203796
+      Food_Coin_Star_88: -1345637226
+      Food_Coin_Star_89: 1748829941
+      Food_Coin_Star_9: -1316749763
+      Food_Coin_Star_90: 513090653
+      Food_Coin_Star_91: 606227253
+      Food_Coin_Star_92: -1958932084
+      Food_Coin_Star_93: -1659042982
+      Food_Coin_Star_94: 453469187
+      Food_Coin_Star_95: 1074238082
+      Food_Coin_Star_96: 825754902
+      Food_Coin_Star_97: 578517278
+      Food_Coin_Star_98: -1666976773
+      Food_Coin_Star_99: 784464529
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

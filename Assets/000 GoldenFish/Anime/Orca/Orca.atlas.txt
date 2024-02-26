@@ -1,0 +1,28 @@
+Orca.png
+size:512,256
+filter:Linear,Linear
+pma:true
+Duoi
+bounds:234,25,95,90
+offsets:1,1,97,92
+Layer 1
+bounds:2,2,38,20
+offsets:1,2,39,22
+Layer 5
+bounds:415,97,18,9
+rotate:90
+Layer 6
+bounds:331,27,33,17
+Than
+bounds:2,24,230,183
+offsets:0,1,230,184
+Vay 1
+bounds:331,46,82,69
+offsets:1,1,84,71
+Vay 2
+bounds:432,125,71,82
+offsets:2,1,75,86
+Vay tren
+bounds:234,117,90,196
+offsets:1,2,92,199
+rotate:90

@@ -1,0 +1,44 @@
+Jellyfish.png
+size:1024,256
+filter:Linear,Linear
+pma:true
+Chan 1
+bounds:519,174,83,75
+offsets:1,1,85,77
+Chan 2
+bounds:2,2,41,95
+offsets:1,1,43,97
+rotate:90
+Chan 3
+bounds:348,86,58,93
+offsets:1,1,60,95
+rotate:90
+Chan 4
+bounds:247,79,99,65
+offsets:1,1,101,67
+Than
+bounds:2,45,243,204
+offsets:1,1,246,206
+Than duoi
+bounds:247,146,270,103
+mat giua L
+bounds:99,16,27,61
+offsets:1,0,28,61
+rotate:90
+mat giua R
+bounds:443,97,47,68
+rotate:90
+mat ngoai L
+bounds:247,47,30,69
+offsets:1,3,32,74
+rotate:90
+mat ngoai R
+bounds:604,174,52,75
+offsets:1,3,54,79
+mat trong L
+bounds:519,146,26,60
+offsets:1,1,28,63
+rotate:90
+mat trong R
+bounds:658,188,42,61
+offsets:1,3,45,67

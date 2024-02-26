@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: EndGame
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 51
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: ca9ee79a7d0d0ca4da56142e7dcaff44, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 7c986a30462b15648b72df7db4a374ea, type: 3}
+  - {fileID: 21300000, guid: 7212fd11557a499479bbc9f2df197eaa, type: 3}
+  - {fileID: 21300000, guid: b37159f221cdb51439c7908385e31c8a, type: 3}
+  - {fileID: 21300000, guid: 7ecd39134b56f04489f1245e0d795a5b, type: 3}
+  - {fileID: 21300000, guid: bf1c736614eb60c40b5ce9baf1d5e784, type: 3}
+  - {fileID: 21300000, guid: d9a5d4e61b190b24a8131627da186b2c, type: 3}
+  - {fileID: 21300000, guid: 2645e10708297a346b06f6130e81760b, type: 3}
+  - {fileID: 21300000, guid: 635d06d7276a90b43bf94b47f48fd563, type: 3}
+  - {fileID: 21300000, guid: 1746a3e8fe0b2d8489092ab728aa0e4b, type: 3}
+  - {fileID: 21300000, guid: d7dc489d94b995145980291aab756cfa, type: 3}
+  - {fileID: 21300000, guid: 52af1afd2fe4074428c7ed603405e456, type: 3}
+  - {fileID: 21300000, guid: 0799061e38225d242afa764f72fd154e, type: 3}
+  - {fileID: 21300000, guid: c1f2dc3f50da20b45b645b8de3772815, type: 3}
+  - {fileID: 21300000, guid: 3975718f7d7f1134181c8a112021a11e, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - reward_bg
+  - btn_get_it
+  - btn_blue_off
+  - icon_video_big
+  - win_reward 1
+  - txt_complete
+  - btn_skip_off
+  - btn_skip
+  - shop_coin_8
+  - reward_bg_1
+  - icon_coin
+  - btn_blue_big
+  - txt_lose
+  - btn_yellow_big
+  m_RenderDataMap: {}
+  m_Tag: EndGame
+  m_IsVariant: 0

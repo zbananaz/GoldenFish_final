@@ -1,0 +1,30 @@
+Surgeonfish.png
+size:512,256
+filter:Linear,Linear
+pma:true
+Duoi
+bounds:236,26,77,81
+offsets:1,1,79,83
+rotate:90
+Fin duoi
+bounds:236,105,145,69
+Fin tren
+bounds:236,176,206,77
+offsets:0,1,206,78
+Layer 11
+bounds:383,120,44,54
+offsets:1,1,46,56
+Layer 12
+bounds:319,82,36,21
+Layer 13
+bounds:444,180,17,27
+rotate:90
+Layer 3
+bounds:2,2,36,47
+offsets:1,1,38,49
+Than
+bounds:2,51,232,202
+offsets:1,1,233,204
+Vay
+bounds:444,199,60,54
+offsets:1,1,62,57

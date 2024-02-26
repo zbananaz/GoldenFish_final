@@ -1,0 +1,1235 @@
+fileFormatVersion: 2
+guid: 0c943047f3d6e43a5947b79145e46611
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PsychoSquid_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1498
+        width: 151
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5e196b7d2d74ccd8b3db6949260f14
+      internalID: 419416790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PsychoSquid_1
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1497
+        width: 149
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff116f0458a354a0899bd669f3de72af
+      internalID: 5998481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PsychoSquid_2
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1496
+        width: 146
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd15c3322743e4c86bf97def8a0a85c8
+      internalID: -1618375397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PsychoSquid_3
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1496
+        width: 146
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873780cb95bc34ae7beed34f8ea42dd8
+      internalID: 237322202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PsychoSquid_4
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1496
+        width: 146
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95adecbac1c642ac8578b1479630fc7
+      internalID: -108619257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PsychoSquid_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1359
+        width: 148
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e98dbf2d27a141a2bbeee877eb57fdb
+      internalID: -900788133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PsychoSquid_6
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1361
+        width: 150
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7164d11ae4a1f42498d44059899fb378
+      internalID: -447140336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PsychoSquid_7
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1363
+        width: 151
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c8c3fd25f894a3ba98202212c07ea1
+      internalID: -687908660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PsychoSquid_8
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1363
+        width: 152
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4afd80523ae4fa59c32236fd0d30e2
+      internalID: -978312310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PsychoSquid_9
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1361
+        width: 151
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e9d964a9642464d9b8539dc0244778
+      internalID: -676637082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PsychoSquid_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1203
+        width: 151
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4913ffdf324094d41bba8fa76413083a
+      internalID: -594976636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PsychoSquid_11
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1201
+        width: 156
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9400063df24c4edbbf5da54c62cf4df
+      internalID: 1062560559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PsychoSquid_12
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1195
+        width: 143
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114216a4114ba4c1e8388f75a98fdab0
+      internalID: -1645032528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PsychoSquid_13
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1199
+        width: 106
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d690fc842443f4b6da889d20bebe1a91
+      internalID: 1660981137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PsychoSquid_14
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1205
+        width: 74
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63fe777d0ce2463ab23f5181941231d
+      internalID: 1195514580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PsychoSquid_15
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1054
+        width: 62
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07ad4e5442cb4eb5ab7685bf600e673
+      internalID: -59547693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PsychoSquid_16
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1052
+        width: 74
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e3a3a612c194d4b9572d52c0e7031a
+      internalID: -1277332226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PsychoSquid_17
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1046
+        width: 106
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca13bddc62d3841bd9b72635eeb34b2d
+      internalID: 1945690733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PsychoSquid_18
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1042
+        width: 143
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672b34adff14c460bab89a33d29b70d3
+      internalID: 1153942211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PsychoSquid_19
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1048
+        width: 156
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1459f2aa460134b94bdda701fd6b675d
+      internalID: 1718656370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PsychoSquid_20
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 853
+        width: 100
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279b1487253314554b6dea7cc982be44
+      internalID: 1226177792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PsychoSquid_21
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 849
+        width: 93
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65ae739700d34847846650cb3e5d12f
+      internalID: 1136520390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PsychoSquid_22
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 844
+        width: 87
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f4df7c679ce42719cb95e3f8f82b3a
+      internalID: 903704923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PsychoSquid_23
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 847
+        width: 96
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49879db6c9e734f49b21c10c02bbe80b
+      internalID: -1255197395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PsychoSquid_24
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 852
+        width: 107
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d8250fdb6b1439e95faf0e47dc5374
+      internalID: -883476789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PsychoSquid_25
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 671
+        width: 116
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34fe7f305ff6a4d789f502b9b69e3be9
+      internalID: 821255841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PsychoSquid_26
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 678
+        width: 119
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc76473267e5743ab9c308fbc1534589
+      internalID: 813348345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PsychoSquid_27
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 677
+        width: 120
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00169204c9b02405f969f7eed22bf930
+      internalID: -914647686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PsychoSquid_28
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 675
+        width: 115
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33acb54feb224a2695ec0ff32c8a8ce
+      internalID: -392127893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PsychoSquid_29
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 672
+        width: 105
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470d57abfdf8a4dac91cbce46e2fe862
+      internalID: 579054817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PsychoSquid_30
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 503
+        width: 100
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72484b592177c48e69890fcc66ce2d8e
+      internalID: -63642495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PsychoSquid_31
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 504
+        width: 94
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ecbe4313e09405a8d30ba46718498a
+      internalID: -593970615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PsychoSquid_32
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 503
+        width: 82
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb44d87b00a54095be217b0381c208d
+      internalID: 1343402309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PsychoSquid_33
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 502
+        width: 72
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731c29680f5344bcfb3aca1a05f1e9ef
+      internalID: 593041680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PsychoSquid_34
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 500
+        width: 68
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1fb41e4cb0b4432b9a97410bf35553c
+      internalID: -513974446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PsychoSquid_35
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 332
+        width: 64
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b56d6fd0280a43d4a8db4be07cc0b1e
+      internalID: 73384209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PsychoSquid_36
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 333
+        width: 68
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc50ac78fdb514e0ea58bc555ae7ee9a
+      internalID: 326083267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PsychoSquid_37
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 335
+        width: 72
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439aa2260e85445348d4fea9b1b3da4a
+      internalID: 1001573419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PsychoSquid_38
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 336
+        width: 82
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd4ff491373c4c11be374ee33a72fd2
+      internalID: -1723521770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PsychoSquid_39
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 337
+        width: 94
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb499d1dfca3424d849a25c7bc90372
+      internalID: 1357672302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PsychoSquid_40
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 174
+        width: 151
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf5969d7593145e092e606aa3680ba3
+      internalID: -614113162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PsychoSquid_41
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 173
+        width: 152
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1a6bf1baa364198b39551e8022752f
+      internalID: -1371329158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PsychoSquid_42
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 171
+        width: 153
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59cbc5263fd0f4189a2ad09b8c06f248
+      internalID: -1105324545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PsychoSquid_43
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 169
+        width: 152
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf98def736aa342c6ad97b07ef64f4da
+      internalID: 1631742079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PsychoSquid_44
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 167
+        width: 144
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdbf68a5d229948d4ae48fd03d3b724d
+      internalID: 1687453510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PsychoSquid_45
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 15
+        width: 139
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c4d15ede770414fa4eaa4675ec9540
+      internalID: -1970898970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PsychoSquid_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 10
+        width: 134
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7fbb7cfca024a90b1b5cd1d287a20e
+      internalID: -1040990301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PsychoSquid_47
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 2
+        width: 123
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587b0bf76a9dc4b65877f24b5b7630dc
+      internalID: -1932057581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PsychoSquid_48
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 0
+        width: 111
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f914208568fa1466b9eb24eb633ed4c1
+      internalID: 79309492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PsychoSquid_49
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 0
+        width: 103
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a268c8b5c3c10457d8b2b7afcce076bf
+      internalID: -898545213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PsychoSquid_0: 419416790
+      PsychoSquid_1: 5998481
+      PsychoSquid_10: -594976636
+      PsychoSquid_11: 1062560559
+      PsychoSquid_12: -1645032528
+      PsychoSquid_13: 1660981137
+      PsychoSquid_14: 1195514580
+      PsychoSquid_15: -59547693
+      PsychoSquid_16: -1277332226
+      PsychoSquid_17: 1945690733
+      PsychoSquid_18: 1153942211
+      PsychoSquid_19: 1718656370
+      PsychoSquid_2: -1618375397
+      PsychoSquid_20: 1226177792
+      PsychoSquid_21: 1136520390
+      PsychoSquid_22: 903704923
+      PsychoSquid_23: -1255197395
+      PsychoSquid_24: -883476789
+      PsychoSquid_25: 821255841
+      PsychoSquid_26: 813348345
+      PsychoSquid_27: -914647686
+      PsychoSquid_28: -392127893
+      PsychoSquid_29: 579054817
+      PsychoSquid_3: 237322202
+      PsychoSquid_30: -63642495
+      PsychoSquid_31: -593970615
+      PsychoSquid_32: 1343402309
+      PsychoSquid_33: 593041680
+      PsychoSquid_34: -513974446
+      PsychoSquid_35: 73384209
+      PsychoSquid_36: 326083267
+      PsychoSquid_37: 1001573419
+      PsychoSquid_38: -1723521770
+      PsychoSquid_39: 1357672302
+      PsychoSquid_4: -108619257
+      PsychoSquid_40: -614113162
+      PsychoSquid_41: -1371329158
+      PsychoSquid_42: -1105324545
+      PsychoSquid_43: 1631742079
+      PsychoSquid_44: 1687453510
+      PsychoSquid_45: -1970898970
+      PsychoSquid_46: -1040990301
+      PsychoSquid_47: -1932057581
+      PsychoSquid_48: 79309492
+      PsychoSquid_49: -898545213
+      PsychoSquid_5: -900788133
+      PsychoSquid_6: -447140336
+      PsychoSquid_7: -687908660
+      PsychoSquid_8: -978312310
+      PsychoSquid_9: -676637082
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

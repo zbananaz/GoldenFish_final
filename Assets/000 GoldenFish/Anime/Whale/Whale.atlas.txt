@@ -1,0 +1,22 @@
+Whale.png
+size:512,256
+filter:Linear,Linear
+pma:true
+Duoi
+bounds:231,176,95,67
+Than
+bounds:2,52,227,191
+Vay 1
+bounds:231,96,82,78
+offsets:1,0,84,79
+Vay 2
+bounds:2,2,56,48
+offsets:2,1,59,49
+mat giua
+bounds:231,53,41,52
+rotate:90
+mat ngoai
+bounds:328,186,45,57
+mat trong
+bounds:60,11,39,49
+rotate:90

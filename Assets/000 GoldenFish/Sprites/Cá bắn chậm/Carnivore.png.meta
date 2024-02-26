@@ -1,0 +1,1631 @@
+fileFormatVersion: 2
+guid: 6a88817364f9746b1b3a2476f23f66e6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Carnivore_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 507
+        width: 71
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ef22c60852644d3a6e85955120922a
+      internalID: 906095697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 507
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89644065b2bc44c09a7fcb350ea24568
+      internalID: -1043740378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 507
+        width: 74
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03c44ebcba964093bd443a19f248b65
+      internalID: 778110696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_3
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 507
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeff1b93f641141a996a2fbbdfe40c88
+      internalID: -605449843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_4
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 507
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0bd84532b18464493ea31f1b2e1a93
+      internalID: 1252729833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_5
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 507
+        width: 68
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89b34c24889d409a8ae4193720b64c3
+      internalID: -560842304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_6
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 507
+        width: 69
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1075c1aff8e442ca3fbaf2fc61edb8
+      internalID: 69213687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_7
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 507
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d021207700646e5b6cb641d7876406
+      internalID: -1427341072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_8
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 507
+        width: 74
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cdf584491a546808b795aa8de847fd
+      internalID: 1104986494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_9
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 507
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527606f34db424d4a9643c581479026b
+      internalID: 1417805038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 76
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79fd45d59475448eca7f3294f8078e3c
+      internalID: 457886673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 420
+        width: 76
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956b8667b097c4f1882ccd60673a223d
+      internalID: 595776336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 419
+        width: 74
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de50f2c4d5287441e93bc5552122f3fe
+      internalID: -425043328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_13
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 419
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54febd81d3f9e4167a8e8bd30b31efcc
+      internalID: 1569300639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_14
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 419
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa715294dd63d4ca198044dff37203ae
+      internalID: 1981505733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_15
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 419
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7825d108fe6894249874f163e95ec434
+      internalID: 1030763223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_16
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 418
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977e710995b2c4299938ee717c7a7643
+      internalID: 1366337558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_17
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 418
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999ba176be4594727bf67f8fb3c90d45
+      internalID: 1991910998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_18
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 419
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc8fa1cfb1394cc69ee34929d258b12
+      internalID: 1160742433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 420
+        width: 74
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed66a13a01b70435eaa02a6d53d645a2
+      internalID: 672224517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 330
+        width: 76
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a57cda65005c4f229f23f469276d17a
+      internalID: -916179327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_21
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 331
+        width: 77
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52931b04b57a441709b359755475c27e
+      internalID: 214077375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_22
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 333
+        width: 78
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57bd770e83af4e0b96f2bde9dbdd002
+      internalID: 2134497524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_23
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 334
+        width: 78
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f93c858adc348a9861a5e413a4b25e
+      internalID: -294990046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_24
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 335
+        width: 77
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bcb42479e774c4e81da37b80f970ba
+      internalID: -197303307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_25
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 335
+        width: 77
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d995983c95942d4abe7e321af71f26
+      internalID: -954166737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_26
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 333
+        width: 238
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb04eaa100e7b435fa2512402431c4e4
+      internalID: 22709973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_27
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 331
+        width: 77
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4e9883e22e24f10a900d01ec8fe0d9
+      internalID: 1103931342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_28
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 250
+        width: 76
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f949c43958c0640dca9b06abd170b959
+      internalID: 677797399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_29
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 250
+        width: 76
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3131bdb985574f7290dafd27d02ec03
+      internalID: 1705760286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_30
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 251
+        width: 77
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe8db8bc82534763ab75153b858c13d
+      internalID: -1060727627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_31
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 256
+        width: 76
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5383d3a4088f240fbb3ce98fc9ba0810
+      internalID: 2025622930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_32
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 264
+        width: 76
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4cbbd8d2eef4393810bfeb0d0bacc1
+      internalID: 910908018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_33
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 270
+        width: 76
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afecb493d73cf4cfb97bde0fead8a20f
+      internalID: -1235152362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_34
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 263
+        width: 76
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39db6d13fcb4241f6844435d10f8898b
+      internalID: 1825488327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_35
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 254
+        width: 77
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37cca98bdb494b579ae340edf47f7b6
+      internalID: -2012198863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_36
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 251
+        width: 76
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0154eecbe01e042e783f792001ea6caf
+      internalID: -640910243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_37
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 251
+        width: 76
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab536a302e5f84305ba4f969ea43112c
+      internalID: 356334735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_38
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 165
+        width: 71
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861f85d889f6040d8863b3ddcbc53438
+      internalID: 1963280004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_39
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 165
+        width: 72
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd06c30ddce324c329c3375933bde479
+      internalID: 475690176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_40
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 165
+        width: 74
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: befff278bbb1d407c87fc1aa67f1b91b
+      internalID: 232595934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_41
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 165
+        width: 74
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7965e806370784e189d1756782b36e61
+      internalID: 1582894920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_42
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 166
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4d843fe8fcb4deb81a73c00ece2a3c
+      internalID: 1402692813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_43
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 166
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b1d76729b6345d28a2e39d98e9f5c9
+      internalID: 956214484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_44
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 166
+        width: 69
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7069bfd0f1e2f4c03a81397d590552b1
+      internalID: 1708652414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_45
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 165
+        width: 72
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f414b0d2243d546a5a3a1f3d6ac4f11d
+      internalID: -1142861970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_46
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 165
+        width: 74
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d501be0f9a64e419aa966ac3a28c32eb
+      internalID: -310304872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_47
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 165
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ecc0c079bc8e4739a800401b4d1614a
+      internalID: -1859438438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_48
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 90
+        width: 76
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05671cd65e584e98b96ec6ea68f31af
+      internalID: -49876186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_49
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 91
+        width: 78
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f17484e9acf4fcb865070f6dadd4fa
+      internalID: 206222674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_50
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 93
+        width: 78
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e26c2a564aa45fba3e696325dd6687
+      internalID: -1577635326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_51
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 94
+        width: 78
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f4fb7dbc65949d198200c60b58bbac
+      internalID: -607579705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_52
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 95
+        width: 79
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024f8a4a5482b400fa0055b434e9671d
+      internalID: 1208071797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_53
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 95
+        width: 79
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102633add95e64c5eabb036d229cf50a
+      internalID: -1323831996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_54
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 93
+        width: 80
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca8754085104404192773f58fa587b2
+      internalID: 1769999863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_55
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 91
+        width: 77
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b8388b541794032a1112eca53ff671
+      internalID: -696789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_56
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2
+        width: 76
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db15ce7c7b46b4421b78db690926b65d
+      internalID: 1535772971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_57
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2
+        width: 76
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59b239e8178f48c493db26bd9c22bdf
+      internalID: -156388243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_58
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1
+        width: 74
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7185c2ec1a24b1b9a59607d3a3c7eb
+      internalID: -745650441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_59
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f553a484e7a9344e1b9743f004a21e4e
+      internalID: -2046316968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_60
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e30470b53bc4489a045cf4cd1c756f
+      internalID: 722778241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_61
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a455e422787f54284944693afb58eb07
+      internalID: -1420217426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_62
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 0
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6aa13656f8a44399ec29aa74b55a88
+      internalID: 1222655210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_63
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 0
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736af74e9bedf49378ddc005fbaff813
+      internalID: 1874164822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_64
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76d539c1805e4e818ee6fdf5875c37c
+      internalID: -1067615362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_65
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 2
+        width: 74
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92c85e1f58dc4bd8ba524f5b1706581
+      internalID: 13240899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_66
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 93
+        width: 79
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f52cc31bba04cf1b2d94c04df6c686
+      internalID: -1782549321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnivore_67
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 93
+        width: 79
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17849e046a2f3487c9c8846f04f3d429
+      internalID: 1024612391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Carnivore_0: 906095697
+      Carnivore_1: -1043740378
+      Carnivore_10: 457886673
+      Carnivore_11: 595776336
+      Carnivore_12: -425043328
+      Carnivore_13: 1569300639
+      Carnivore_14: 1981505733
+      Carnivore_15: 1030763223
+      Carnivore_16: 1366337558
+      Carnivore_17: 1991910998
+      Carnivore_18: 1160742433
+      Carnivore_19: 672224517
+      Carnivore_2: 778110696
+      Carnivore_20: -916179327
+      Carnivore_21: 214077375
+      Carnivore_22: 2134497524
+      Carnivore_23: -294990046
+      Carnivore_24: -197303307
+      Carnivore_25: -954166737
+      Carnivore_26: 22709973
+      Carnivore_27: 1103931342
+      Carnivore_28: 677797399
+      Carnivore_29: 1705760286
+      Carnivore_3: -605449843
+      Carnivore_30: -1060727627
+      Carnivore_31: 2025622930
+      Carnivore_32: 910908018
+      Carnivore_33: -1235152362
+      Carnivore_34: 1825488327
+      Carnivore_35: -2012198863
+      Carnivore_36: -640910243
+      Carnivore_37: 356334735
+      Carnivore_38: 1963280004
+      Carnivore_39: 475690176
+      Carnivore_4: 1252729833
+      Carnivore_40: 232595934
+      Carnivore_41: 1582894920
+      Carnivore_42: 1402692813
+      Carnivore_43: 956214484
+      Carnivore_44: 1708652414
+      Carnivore_45: -1142861970
+      Carnivore_46: -310304872
+      Carnivore_47: -1859438438
+      Carnivore_48: -49876186
+      Carnivore_49: 206222674
+      Carnivore_5: -560842304
+      Carnivore_50: -1577635326
+      Carnivore_51: -607579705
+      Carnivore_52: 1208071797
+      Carnivore_53: -1323831996
+      Carnivore_54: 1769999863
+      Carnivore_55: -696789
+      Carnivore_56: 1535772971
+      Carnivore_57: -156388243
+      Carnivore_58: -745650441
+      Carnivore_59: -2046316968
+      Carnivore_6: 69213687
+      Carnivore_60: 722778241
+      Carnivore_61: -1420217426
+      Carnivore_62: 1222655210
+      Carnivore_63: 1874164822
+      Carnivore_64: -1067615362
+      Carnivore_65: 13240899
+      Carnivore_66: -1782549321
+      Carnivore_67: 1024612391
+      Carnivore_7: -1427341072
+      Carnivore_8: 1104986494
+      Carnivore_9: 1417805038
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

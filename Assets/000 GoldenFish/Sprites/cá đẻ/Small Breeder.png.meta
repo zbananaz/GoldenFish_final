@@ -1,0 +1,1675 @@
+fileFormatVersion: 2
+guid: 10592aa7346384a95a8a7684ec0b371c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Small Breeder_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 338
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33919c29ef1b248cfbb0d34882de3148
+      internalID: 1498143434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 338
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad4abcc93fc74bf5ad0adf729536c5a
+      internalID: 891560750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_2
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 335
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8908ef5edc39d40c3acff9e47e91a5f4
+      internalID: -903619763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_3
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 335
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f368f212f72514d0bb4c46e5e26e608d
+      internalID: -1591974635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_4
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 332
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90371b76a49341cab2932baebcb02f1
+      internalID: 1188521517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_5
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 332
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310056587e9024dfa8a3d66fdd2f2f2b
+      internalID: 1095902671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_6
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 332
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e248a730c8a4d4d88ec529c3966d0a
+      internalID: 24043004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_7
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 332
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18883265b57bd48c9991015c32cb846d
+      internalID: 1092773304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_8
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 332
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ccc1cd31685c4ff6ac9a7e89cca2e2c
+      internalID: 1713426715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_9
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 332
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c235f977bce84567b39367f13e36cae
+      internalID: 1374679882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 284
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482b28622383c4317bb1c58fda9d79aa
+      internalID: -1312655352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_11
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 284
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9efd5756f5876413889b15c361fe6463
+      internalID: 67825300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_12
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 281
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dbee247d25984e4f8f3f4b842e96888
+      internalID: -520488803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_13
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 281
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720508305cc9a4d5598f200f51ed5aca
+      internalID: 637901570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_14
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 278
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae1033ef61ab48bb80e759c77a0774c
+      internalID: -1146680441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_15
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 278
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d854d63ad1744938c4ebf01e08b3c6
+      internalID: -133099116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_16
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 278
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce20afc32dcbb430ab38dea032066e70
+      internalID: 1737952991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_17
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 278
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9b5f3deb1fd48e597004ee73cb8757
+      internalID: 311800113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_18
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 278
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c8a38586ac549219bcce305bd7a027
+      internalID: 612746258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_19
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 278
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386d14ab739a44124b76f3740a76e250
+      internalID: 1363012020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 229
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6765aa0f95fb41ef8d83faffbba187b
+      internalID: 1987996130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_21
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 229
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc5b17a54365499c8626c3b4a00b431
+      internalID: 1089541675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_22
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 226
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5932db701ddba4dbaa1d139e308ddb75
+      internalID: 1853471073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_23
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 227
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ef0232e538243b482e736b3156f52e
+      internalID: 819183596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_24
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 224
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba1336ef8a6e444c92907399f4f14ea
+      internalID: 1529289280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_25
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 224
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017e79cb5a1e8400d9fd14d3e731f22e
+      internalID: -559849854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_26
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 224
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91712a511d15410f81c5b8566d1263f
+      internalID: -1899098952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_27
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 224
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72232230f9e7943fa876050918971a28
+      internalID: -781382393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_28
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 223
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e1c2fbad3c749e5952709f2c9e541a
+      internalID: -236546120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_29
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 223
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ea3e68a2a88451c947cc659465923f
+      internalID: 1411418275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 175
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699774f8384fb42308876af8d8e432a1
+      internalID: 984653352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_31
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 175
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7785b4e6d7c4aae957a8bc87f16094
+      internalID: 304173312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_32
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 172
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d67503fe2dbf425c8f579acbf35a6de
+      internalID: 1923824081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_33
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 172
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59598c6685d74331a9b734734721c66
+      internalID: 1838375842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_34
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 169
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327aca6eecfa14088a4d01bd1eefb40c
+      internalID: 514716248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_35
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 169
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76d261d7d58f47ddae48044518c60fe
+      internalID: 947014751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_36
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 169
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be97fdab918b844c9b2b47305ac1fb1f
+      internalID: 184618942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_37
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 169
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064e5568ac92f4dc6ab70112a999eaef
+      internalID: 855434286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_38
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 169
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e99b22b0cb34582a10b07c28c1ea39
+      internalID: -692591584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_39
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 169
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c5282d619424b1eaca740a499da06c
+      internalID: -982889774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 118
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719991140f1454742860eae4cd9dc282
+      internalID: -210428251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_41
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 118
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0bfb39fde3649a88b7a3f7f044b184
+      internalID: -1621069408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_42
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 115
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08c122199f394cd6ba01be164d6e442
+      internalID: -1869076658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_43
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 115
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238bcb9d5311248329299e729335b5fb
+      internalID: 196373652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_44
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 112
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5163ecd3fb74d4641973a3fed8a082f1
+      internalID: -492160746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_45
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 112
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7941fb4186dfd460ea5d4156ebbe06eb
+      internalID: 1015376779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_46
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 112
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc8413e001e7424e8a72ac0b460bef5
+      internalID: -1846259396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_47
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 112
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1a1fef66c27455ca4762d2c45743c1
+      internalID: 991629538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_48
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 112
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665fd87626fcb48ecb87019ee8cbd81b
+      internalID: -14761618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_49
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 112
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7926cf762a834a579516c808b79408f
+      internalID: 19502866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_50
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 63
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866ad023aa6bc43ebaf358eb3665c3ff
+      internalID: 1136379518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_51
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 64
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d14eb92c63884708b9eb2066eea6d82
+      internalID: -1642704729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_52
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 62
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e3223b7d6834491a5fbaed97539c32
+      internalID: 2079766125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_53
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 62
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6fbde1c71d947b68d223acb2cc451b
+      internalID: 2069279261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_54
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 60
+        width: 49
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f1850ed0d304eff941a77069221607
+      internalID: 145073020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_55
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 60
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104b6e96593ce4376a8a4b76f10efb82
+      internalID: -127577063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_56
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 58
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b680d5d3c1b41d58075b39e7f4a005
+      internalID: 1513567919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_57
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 56
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f0c8dcf955f45669210baf1d1b12d4
+      internalID: 1708685178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_58
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 56
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20407fa6aaab34dcf8e3c40ae42525ca
+      internalID: 1918193085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_59
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 56
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2890d6a4fe9f64fdcb5322e234134314
+      internalID: 500002730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_60
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 6
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6978a80e8cc45a0b8e8cfef7271e1d
+      internalID: -1671409113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 6
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e7d5ba4da4c41a99f4b520e16aa074
+      internalID: 538020374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_62
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 3
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695b1760aa1dd40b4a04a8e33d1fa16d
+      internalID: 1628154323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_63
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 4
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc4ed7357baa4d22908f0bdcc39ade2
+      internalID: -1715912024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_64
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739a9150bab6e481c8da42e2b6e2c32c
+      internalID: -233095017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_65
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e49e301d2f7843d8aadfdfdee927b2e
+      internalID: -1347860784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_66
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78c8174f58554428af1404d597faa08
+      internalID: 463444604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_67
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da049f842c0c74e26b53af1b9b30f656
+      internalID: -7641636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_68
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 0
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0af5563d7031458795e2596dc3ff358
+      internalID: -387949643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Breeder_69
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 0
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b851c9636ccf4d4fbb041ba7c71dde1
+      internalID: -1725620471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Small Breeder_0: 1498143434
+      Small Breeder_1: 891560750
+      Small Breeder_10: -1312655352
+      Small Breeder_11: 67825300
+      Small Breeder_12: -520488803
+      Small Breeder_13: 637901570
+      Small Breeder_14: -1146680441
+      Small Breeder_15: -133099116
+      Small Breeder_16: 1737952991
+      Small Breeder_17: 311800113
+      Small Breeder_18: 612746258
+      Small Breeder_19: 1363012020
+      Small Breeder_2: -903619763
+      Small Breeder_20: 1987996130
+      Small Breeder_21: 1089541675
+      Small Breeder_22: 1853471073
+      Small Breeder_23: 819183596
+      Small Breeder_24: 1529289280
+      Small Breeder_25: -559849854
+      Small Breeder_26: -1899098952
+      Small Breeder_27: -781382393
+      Small Breeder_28: -236546120
+      Small Breeder_29: 1411418275
+      Small Breeder_3: -1591974635
+      Small Breeder_30: 984653352
+      Small Breeder_31: 304173312
+      Small Breeder_32: 1923824081
+      Small Breeder_33: 1838375842
+      Small Breeder_34: 514716248
+      Small Breeder_35: 947014751
+      Small Breeder_36: 184618942
+      Small Breeder_37: 855434286
+      Small Breeder_38: -692591584
+      Small Breeder_39: -982889774
+      Small Breeder_4: 1188521517
+      Small Breeder_40: -210428251
+      Small Breeder_41: -1621069408
+      Small Breeder_42: -1869076658
+      Small Breeder_43: 196373652
+      Small Breeder_44: -492160746
+      Small Breeder_45: 1015376779
+      Small Breeder_46: -1846259396
+      Small Breeder_47: 991629538
+      Small Breeder_48: -14761618
+      Small Breeder_49: 19502866
+      Small Breeder_5: 1095902671
+      Small Breeder_50: 1136379518
+      Small Breeder_51: -1642704729
+      Small Breeder_52: 2079766125
+      Small Breeder_53: 2069279261
+      Small Breeder_54: 145073020
+      Small Breeder_55: -127577063
+      Small Breeder_56: 1513567919
+      Small Breeder_57: 1708685178
+      Small Breeder_58: 1918193085
+      Small Breeder_59: 500002730
+      Small Breeder_6: 24043004
+      Small Breeder_60: -1671409113
+      Small Breeder_61: 538020374
+      Small Breeder_62: 1628154323
+      Small Breeder_63: -1715912024
+      Small Breeder_64: -233095017
+      Small Breeder_65: -1347860784
+      Small Breeder_66: 463444604
+      Small Breeder_67: -7641636
+      Small Breeder_68: -387949643
+      Small Breeder_69: -1725620471
+      Small Breeder_7: 1092773304
+      Small Breeder_8: 1713426715
+      Small Breeder_9: 1374679882
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

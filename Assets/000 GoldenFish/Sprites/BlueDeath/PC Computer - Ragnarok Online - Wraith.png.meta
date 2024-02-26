@@ -1,0 +1,629 @@
+fileFormatVersion: 2
+guid: 8806318af41ad402e9eb37486731fdeb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wraith_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 564
+        width: 94
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81ca67a93a1a44eb8e902fbd09e3a77
+      internalID: 238735141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wraith_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 561
+        width: 92
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fdf7d526a0a64fe5badbda3d4ac8bb1
+      internalID: -1508450524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wraith_2
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 561
+        width: 91
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0ccf6d8e648439b9a3caff1c33711f
+      internalID: -315812466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wraith_3
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 559
+        width: 93
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36631ec13a92346f6b4cea226fbcf39d
+      internalID: -270641396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wraith_4
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 559
+        width: 94
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23ce4efeb37a410a8e303286de2b28e
+      internalID: 351509595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wraith_5
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 559
+        width: 92
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a196798118edb4dd887149de19ff6f40
+      internalID: -1287810398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wraith_6
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 559
+        width: 91
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f49770e5cc4432a8bd7a2b64b18f60
+      internalID: 538739882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wraith_17
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 485
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611666e8fd9984fd3b985a4e42f68eb7
+      internalID: -267049278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wraith_27
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 255
+        width: 93
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6444414f498af428dadb8bbe28899009
+      internalID: -426898191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wraith_28
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 256
+        width: 94
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0680b15541fb448c6b9fe76b3dfa3742
+      internalID: -746237319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wraith_29
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 255
+        width: 94
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68496db65807548db97f26a82e108ec1
+      internalID: 676078886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wraith_30
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 255
+        width: 100
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85dde4431575f476db3bdb9e1ddeeb84
+      internalID: -557794855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wraith_39
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 88
+        width: 95
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5943c5eafcdcc49bb9ce65fb526b5a17
+      internalID: 1983475356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wraith_40
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 88
+        width: 95
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f85b9d5dfb7c402ea4668aa5d70a791
+      internalID: -227812236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wraith_41
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 97
+        width: 85
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b980436dc784fb98b2d64f9fe901c1
+      internalID: 1554013462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wraith_93
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 8
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20153a380041246af925cc6ce2b24b9d
+      internalID: -638523193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wraith_94
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 9
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b93b6d7b046446ea53d712e937f5d6
+      internalID: 1801472308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Wraith_7
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 89
+        width: 88
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24d4a8d3cd2c4fd89dac08d6a89a6f8
+      internalID: -1570228174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Ragnarok Online - Wraith_0: 238735141
+      PC Computer - Ragnarok Online - Wraith_1: -1508450524
+      PC Computer - Ragnarok Online - Wraith_10: -1986899211
+      PC Computer - Ragnarok Online - Wraith_100: -1729486661
+      PC Computer - Ragnarok Online - Wraith_101: 284019917
+      PC Computer - Ragnarok Online - Wraith_102: 1053832719
+      PC Computer - Ragnarok Online - Wraith_103: -791316828
+      PC Computer - Ragnarok Online - Wraith_104: -354869573
+      PC Computer - Ragnarok Online - Wraith_105: -2081295613
+      PC Computer - Ragnarok Online - Wraith_106: -961307331
+      PC Computer - Ragnarok Online - Wraith_107: 1841760625
+      PC Computer - Ragnarok Online - Wraith_108: 99347568
+      PC Computer - Ragnarok Online - Wraith_109: 1224353719
+      PC Computer - Ragnarok Online - Wraith_11: -1743898200
+      PC Computer - Ragnarok Online - Wraith_110: -294079596
+      PC Computer - Ragnarok Online - Wraith_111: 556256928
+      PC Computer - Ragnarok Online - Wraith_112: -740288277
+      PC Computer - Ragnarok Online - Wraith_113: 1605160695
+      PC Computer - Ragnarok Online - Wraith_114: 1079952276
+      PC Computer - Ragnarok Online - Wraith_115: -1322674884
+      PC Computer - Ragnarok Online - Wraith_12: -1033372581
+      PC Computer - Ragnarok Online - Wraith_13: 1984438322
+      PC Computer - Ragnarok Online - Wraith_14: -1208653711
+      PC Computer - Ragnarok Online - Wraith_15: -144304808
+      PC Computer - Ragnarok Online - Wraith_16: -324910619
+      PC Computer - Ragnarok Online - Wraith_17: -267049278
+      PC Computer - Ragnarok Online - Wraith_18: 1138867200
+      PC Computer - Ragnarok Online - Wraith_19: -1289747952
+      PC Computer - Ragnarok Online - Wraith_2: -315812466
+      PC Computer - Ragnarok Online - Wraith_20: 1199870062
+      PC Computer - Ragnarok Online - Wraith_21: -1420882725
+      PC Computer - Ragnarok Online - Wraith_22: -1073924498
+      PC Computer - Ragnarok Online - Wraith_23: -1054548030
+      PC Computer - Ragnarok Online - Wraith_24: 1316984380
+      PC Computer - Ragnarok Online - Wraith_25: 362915788
+      PC Computer - Ragnarok Online - Wraith_26: 132284087
+      PC Computer - Ragnarok Online - Wraith_27: -426898191
+      PC Computer - Ragnarok Online - Wraith_28: -746237319
+      PC Computer - Ragnarok Online - Wraith_29: 676078886
+      PC Computer - Ragnarok Online - Wraith_3: -270641396
+      PC Computer - Ragnarok Online - Wraith_30: -557794855
+      PC Computer - Ragnarok Online - Wraith_31: 910564630
+      PC Computer - Ragnarok Online - Wraith_32: 1009980790
+      PC Computer - Ragnarok Online - Wraith_33: 282936590
+      PC Computer - Ragnarok Online - Wraith_34: 108718351
+      PC Computer - Ragnarok Online - Wraith_35: -949018232
+      PC Computer - Ragnarok Online - Wraith_36: 888580644
+      PC Computer - Ragnarok Online - Wraith_37: -848806046
+      PC Computer - Ragnarok Online - Wraith_38: -1017485544
+      PC Computer - Ragnarok Online - Wraith_39: 1983475356
+      PC Computer - Ragnarok Online - Wraith_4: 351509595
+      PC Computer - Ragnarok Online - Wraith_40: -227812236
+      PC Computer - Ragnarok Online - Wraith_41: 1554013462
+      PC Computer - Ragnarok Online - Wraith_42: -964619944
+      PC Computer - Ragnarok Online - Wraith_43: -1112285884
+      PC Computer - Ragnarok Online - Wraith_44: 427616243
+      PC Computer - Ragnarok Online - Wraith_45: 257144314
+      PC Computer - Ragnarok Online - Wraith_46: -652132358
+      PC Computer - Ragnarok Online - Wraith_47: -734007677
+      PC Computer - Ragnarok Online - Wraith_48: 1968266159
+      PC Computer - Ragnarok Online - Wraith_49: -1502383219
+      PC Computer - Ragnarok Online - Wraith_5: -1287810398
+      PC Computer - Ragnarok Online - Wraith_50: -147081528
+      PC Computer - Ragnarok Online - Wraith_51: -735343540
+      PC Computer - Ragnarok Online - Wraith_52: 1228650203
+      PC Computer - Ragnarok Online - Wraith_53: -1865612570
+      PC Computer - Ragnarok Online - Wraith_54: -995287410
+      PC Computer - Ragnarok Online - Wraith_55: -1499064271
+      PC Computer - Ragnarok Online - Wraith_56: -2042396499
+      PC Computer - Ragnarok Online - Wraith_57: 1648855019
+      PC Computer - Ragnarok Online - Wraith_58: 708752045
+      PC Computer - Ragnarok Online - Wraith_59: -1326741343
+      PC Computer - Ragnarok Online - Wraith_6: 538739882
+      PC Computer - Ragnarok Online - Wraith_60: -1654962215
+      PC Computer - Ragnarok Online - Wraith_61: -758063802
+      PC Computer - Ragnarok Online - Wraith_62: 1170135405
+      PC Computer - Ragnarok Online - Wraith_63: -2044082890
+      PC Computer - Ragnarok Online - Wraith_64: 70157775
+      PC Computer - Ragnarok Online - Wraith_65: -742157238
+      PC Computer - Ragnarok Online - Wraith_66: 1196526439
+      PC Computer - Ragnarok Online - Wraith_67: -584750758
+      PC Computer - Ragnarok Online - Wraith_68: 392150418
+      PC Computer - Ragnarok Online - Wraith_69: -285070019
+      PC Computer - Ragnarok Online - Wraith_7: -1570228174
+      PC Computer - Ragnarok Online - Wraith_70: -441002988
+      PC Computer - Ragnarok Online - Wraith_71: -1801443196
+      PC Computer - Ragnarok Online - Wraith_72: 224936605
+      PC Computer - Ragnarok Online - Wraith_73: 22538458
+      PC Computer - Ragnarok Online - Wraith_74: -1481220725
+      PC Computer - Ragnarok Online - Wraith_75: 818463505
+      PC Computer - Ragnarok Online - Wraith_76: 592615186
+      PC Computer - Ragnarok Online - Wraith_77: 1563267218
+      PC Computer - Ragnarok Online - Wraith_78: 1502987170
+      PC Computer - Ragnarok Online - Wraith_79: -1775855836
+      PC Computer - Ragnarok Online - Wraith_8: -93929676
+      PC Computer - Ragnarok Online - Wraith_80: 1795388593
+      PC Computer - Ragnarok Online - Wraith_81: 239701896
+      PC Computer - Ragnarok Online - Wraith_82: 1745241300
+      PC Computer - Ragnarok Online - Wraith_83: 1550426754
+      PC Computer - Ragnarok Online - Wraith_84: 176788589
+      PC Computer - Ragnarok Online - Wraith_85: 1736241685
+      PC Computer - Ragnarok Online - Wraith_86: 598030392
+      PC Computer - Ragnarok Online - Wraith_87: 246764380
+      PC Computer - Ragnarok Online - Wraith_88: -473928607
+      PC Computer - Ragnarok Online - Wraith_89: -144014902
+      PC Computer - Ragnarok Online - Wraith_9: -1247375283
+      PC Computer - Ragnarok Online - Wraith_90: -1866906109
+      PC Computer - Ragnarok Online - Wraith_91: -354607239
+      PC Computer - Ragnarok Online - Wraith_92: 1181823658
+      PC Computer - Ragnarok Online - Wraith_93: -638523193
+      PC Computer - Ragnarok Online - Wraith_94: 1801472308
+      PC Computer - Ragnarok Online - Wraith_95: -1709534290
+      PC Computer - Ragnarok Online - Wraith_96: -1020789403
+      PC Computer - Ragnarok Online - Wraith_97: 1874813707
+      PC Computer - Ragnarok Online - Wraith_98: -1518666180
+      PC Computer - Ragnarok Online - Wraith_99: -2128326751
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

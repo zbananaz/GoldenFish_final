@@ -1,0 +1,1675 @@
+fileFormatVersion: 2
+guid: 0264c6f0476454633b11a1130f0711e0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Medium Breeder_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 469
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb728e853ea5247a5a8e7281fc29e9f1
+      internalID: 242410753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 469
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfd3f3b5095349a7aee5172067d90d1
+      internalID: -1101264512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 469
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fff4277732bf4904b33c3f8dcd77489
+      internalID: 224876228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 469
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad925892f0f6842eba5d5f97a9be98a2
+      internalID: -443734096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 469
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade6461ca69774625a19b692e5f90c08
+      internalID: -516625337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 469
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a92240c8a3e45349233f78c5dd54e5
+      internalID: -1586052363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 469
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562fa3fd14e5045788d67ad00ff778f4
+      internalID: 98226744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 469
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53522a9e44bbb4d9d980094e9324434f
+      internalID: -1599685435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 469
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64228af2ca37447ff962cb5494d2e1e8
+      internalID: 1171893544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 469
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fffa1cfeda2c457990f103ee199c066
+      internalID: 258329752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 389
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20227e97c1c9c47d1bbe67f26b9b8e2f
+      internalID: -1910702651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 389
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38efabc8625674d9b9ac452345ba6fad
+      internalID: -2139566518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_12
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 389
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac38c7c416bf440da92acd83d0167d46
+      internalID: 1195491508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_13
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 390
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69da0c428ea444d53b9e56faf5352009
+      internalID: 93138998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_14
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 390
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000347dfaa99b4b028d860fb88ea82dc
+      internalID: 21356584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_15
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 390
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a9f2a83e2c34436bcc645bec017df6
+      internalID: 5551224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_16
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 390
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742caf0d5ccd24c44bbfdbaca4cd0cd9
+      internalID: 1366765056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_17
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 390
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4888c303b76244ae91f7eed257df264
+      internalID: 359937144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_18
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 389
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db3136c45db1458a801743d2e8c6e33
+      internalID: -2002863927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_19
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 389
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7af5aaa646e47d18f40e49415cc037
+      internalID: 779725906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 309
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfa7050a0f2e47daa1f55612c160134
+      internalID: 1137359374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_21
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 309
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1627dc3603746c897273f0a85e170e
+      internalID: -1587612202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_22
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 310
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6cc9b23cc61444cbf75ddc04a7fa2d
+      internalID: -455858618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_23
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 310
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44a0e710c4c34744a1e97a5be494d8c
+      internalID: -913718448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_24
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 310
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63b7f7640f5a4127af5f17934df748a
+      internalID: -1935379030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_25
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 311
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f6b5d96d30c4ea297d2de29aeefbb7
+      internalID: -1689129006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_26
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 310
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f960c877ade6456097ff1e1e5b2f24a
+      internalID: -105959473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_27
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 310
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5b7254a4a4543b5b6334598e27315e
+      internalID: -1209881566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_28
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 310
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9f30f7f68cb4f28b3aec69925a4c63
+      internalID: -1926362669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_29
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 309
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0031fd99329d04a429a7fc97efe50c3f
+      internalID: -76212561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 230
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b5fca585a074678ab4ac065f1718c9
+      internalID: -464289184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_31
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 230
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f91d6f32eceb4bdfbad059fa5c2eb8c
+      internalID: 1421451628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_32
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 230
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e66bcad03f14f99914cc91289fa300
+      internalID: -1778495136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_33
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 230
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df13fc35c8e74d43bc52f8c9be67610
+      internalID: -2089139210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_34
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 230
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1126a518c110d4a20ad2a9d7c0d8fbe8
+      internalID: 1000549381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_35
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 230
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a47f0a6bed9a488abce9d23600d8391
+      internalID: -1430528865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_36
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 230
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd99ac8ed44149c0a152b97399b3251
+      internalID: 41202919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_37
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 230
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9305732c3df4fe497c72b66d70c78b
+      internalID: 626939967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_38
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 230
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77fca70281824361b335b0fa4f00851
+      internalID: 2111744811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_39
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 230
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd976ddcd4be548af952bd0b5d83ea34
+      internalID: 5147792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_40
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 150
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c04036f1c9e4ee68f5eca8d0e5b840
+      internalID: 1545234298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_41
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 150
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1c150148e1847c9a62e02d1d9a6b26
+      internalID: -171771758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_42
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 150
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858b442cd4d734e008ba9e0a642a3a29
+      internalID: -1361424325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_43
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 151
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8afce5abee9b34dafafd43b997802fe6
+      internalID: -71749772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_44
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 151
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911ec0f432c02476b9089f225a4d3bea
+      internalID: 1015515540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_45
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 151
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2511306d1662e4e08b8a8410add3d709
+      internalID: -1168275247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_46
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 151
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88383f90f167c41e5a54c81f2f7b7e75
+      internalID: 1800888100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_47
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 151
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5feaca0580944428a9496cc6d2a30d52
+      internalID: 452674590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_48
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 150
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca38bffb94b3b4d4491b5540e74f8a0d
+      internalID: -1080062753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_49
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 150
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eebadd7a8408480ba650d7f631a3ddf
+      internalID: -1808842450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_50
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 71
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d135983a269407db676895b957898a
+      internalID: 1654392964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_51
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 71
+        width: 59
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10504c168b75c425f91d225503f57ee9
+      internalID: -444446490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_52
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 73
+        width: 60
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca45da9455694e44861afea36bfc5f0
+      internalID: -1570300608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_53
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 72
+        width: 61
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e944ac4abfae4d938ac29fcf43e73d3
+      internalID: 67432803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_54
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 74
+        width: 61
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c851414806e9b4e08a6fd62c9457105e
+      internalID: 1502772957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_55
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 74
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f45141f7efc45bfba2965a1fb6593f
+      internalID: -2142834453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_56
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 71
+        width: 60
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e87525c29dd54696a349cbc7f77fe74
+      internalID: -2135454623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_57
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 69
+        width: 59
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53ce5785ba1a43faa27b7a68e7d9833
+      internalID: -2093575204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_58
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 69
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a851e489a7e304c0ea6c7f3378ed3b8e
+      internalID: -1444585031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_59
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 69
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbceddf1808b243ad90cbf2bebd3fce8
+      internalID: -2049670786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_60
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869c5234f0d4041b092304e4d990ce06
+      internalID: -377175278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_61
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 0
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598cabed28b114d0ca39bbc263f4f8bc
+      internalID: 2079276585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_62
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de81ed026bb784d39ab783dc42c17346
+      internalID: -1024607626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_63
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d94e6de8e4e44c5e91cde7412251948
+      internalID: 125472514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_64
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31be436bf6a254f27952abbc3a458350
+      internalID: -346351168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_65
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 2
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19eb38d4a634b4956ab607811047f9f9
+      internalID: 658096136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_66
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1519df1b36b2448328454c596bea85a4
+      internalID: 1943382946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_67
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99334175bd5b34e8eac787fea9ad4a32
+      internalID: 1568694290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_68
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4022512727841b5af771196b7054e5
+      internalID: -285917638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medium Breeder_69
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 0
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81ab2b1f2cf040d985c50989e9ce78c
+      internalID: 1969987823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Medium Breeder_0: 242410753
+      Medium Breeder_1: -1101264512
+      Medium Breeder_10: -1910702651
+      Medium Breeder_11: -2139566518
+      Medium Breeder_12: 1195491508
+      Medium Breeder_13: 93138998
+      Medium Breeder_14: 21356584
+      Medium Breeder_15: 5551224
+      Medium Breeder_16: 1366765056
+      Medium Breeder_17: 359937144
+      Medium Breeder_18: -2002863927
+      Medium Breeder_19: 779725906
+      Medium Breeder_2: 224876228
+      Medium Breeder_20: 1137359374
+      Medium Breeder_21: -1587612202
+      Medium Breeder_22: -455858618
+      Medium Breeder_23: -913718448
+      Medium Breeder_24: -1935379030
+      Medium Breeder_25: -1689129006
+      Medium Breeder_26: -105959473
+      Medium Breeder_27: -1209881566
+      Medium Breeder_28: -1926362669
+      Medium Breeder_29: -76212561
+      Medium Breeder_3: -443734096
+      Medium Breeder_30: -464289184
+      Medium Breeder_31: 1421451628
+      Medium Breeder_32: -1778495136
+      Medium Breeder_33: -2089139210
+      Medium Breeder_34: 1000549381
+      Medium Breeder_35: -1430528865
+      Medium Breeder_36: 41202919
+      Medium Breeder_37: 626939967
+      Medium Breeder_38: 2111744811
+      Medium Breeder_39: 5147792
+      Medium Breeder_4: -516625337
+      Medium Breeder_40: 1545234298
+      Medium Breeder_41: -171771758
+      Medium Breeder_42: -1361424325
+      Medium Breeder_43: -71749772
+      Medium Breeder_44: 1015515540
+      Medium Breeder_45: -1168275247
+      Medium Breeder_46: 1800888100
+      Medium Breeder_47: 452674590
+      Medium Breeder_48: -1080062753
+      Medium Breeder_49: -1808842450
+      Medium Breeder_5: -1586052363
+      Medium Breeder_50: 1654392964
+      Medium Breeder_51: -444446490
+      Medium Breeder_52: -1570300608
+      Medium Breeder_53: 67432803
+      Medium Breeder_54: 1502772957
+      Medium Breeder_55: -2142834453
+      Medium Breeder_56: -2135454623
+      Medium Breeder_57: -2093575204
+      Medium Breeder_58: -1444585031
+      Medium Breeder_59: -2049670786
+      Medium Breeder_6: 98226744
+      Medium Breeder_60: -377175278
+      Medium Breeder_61: 2079276585
+      Medium Breeder_62: -1024607626
+      Medium Breeder_63: 125472514
+      Medium Breeder_64: -346351168
+      Medium Breeder_65: 658096136
+      Medium Breeder_66: 1943382946
+      Medium Breeder_67: 1568694290
+      Medium Breeder_68: -285917638
+      Medium Breeder_69: 1969987823
+      Medium Breeder_7: -1599685435
+      Medium Breeder_8: 1171893544
+      Medium Breeder_9: 258329752
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

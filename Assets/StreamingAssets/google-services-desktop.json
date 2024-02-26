@@ -1,0 +1,767 @@
+{
+  "project_info": {
+    "project_number": "919205575703",
+    "firebase_url": "https://impostor-survival-default-rtdb.firebaseio.com",
+    "project_id": "impostor-survival",
+    "storage_bucket": "impostor-survival.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919205575703:android:27a71270ab58593cbdf052",
+        "android_client_info": {
+          "package_name": "com.rocket.impostor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919205575703-47c51ul7p75eoc7se40u2ddi4et1o7ru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEWXuZU97nD8Ct4-cRLp82-liOkIwJ2f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919205575703-47c51ul7p75eoc7se40u2ddi4et1o7ru.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "919205575703-2n4a2shkbovj9pn8r2esgdpk5ttdqeit.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.unicorn.fedy.survival"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919205575703:android:d216dc1268f08b40bdf052",
+        "android_client_info": {
+          "package_name": "com.unicorn.baby.squid.survival"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919205575703-47c51ul7p75eoc7se40u2ddi4et1o7ru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEWXuZU97nD8Ct4-cRLp82-liOkIwJ2f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919205575703-47c51ul7p75eoc7se40u2ddi4et1o7ru.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "919205575703-2n4a2shkbovj9pn8r2esgdpk5ttdqeit.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.unicorn.fedy.survival"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919205575703:android:281fecedfec84b61bdf052",
+        "android_client_info": {
+          "package_name": "com.unicorn.baby.survival.fps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919205575703-47c51ul7p75eoc7se40u2ddi4et1o7ru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEWXuZU97nD8Ct4-cRLp82-liOkIwJ2f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919205575703-47c51ul7p75eoc7se40u2ddi4et1o7ru.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "919205575703-2n4a2shkbovj9pn8r2esgdpk5ttdqeit.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.unicorn.fedy.survival"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919205575703:android:5753cc890f08f16ebdf052",
+        "android_client_info": {
+          "package_name": "com.unicorn.fallbreak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919205575703-47c51ul7p75eoc7se40u2ddi4et1o7ru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEWXuZU97nD8Ct4-cRLp82-liOkIwJ2f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919205575703-47c51ul7p75eoc7se40u2ddi4et1o7ru.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "919205575703-2n4a2shkbovj9pn8r2esgdpk5ttdqeit.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.unicorn.fedy.survival"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919205575703:android:8ea1f9fb02bdb5d3bdf052",
+        "android_client_info": {
+          "package_name": "com.unicorn.fedy.smasher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919205575703-47c51ul7p75eoc7se40u2ddi4et1o7ru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEWXuZU97nD8Ct4-cRLp82-liOkIwJ2f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919205575703-47c51ul7p75eoc7se40u2ddi4et1o7ru.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "919205575703-2n4a2shkbovj9pn8r2esgdpk5ttdqeit.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.unicorn.fedy.survival"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919205575703:android:027eaa91569c719cbdf052",
+        "android_client_info": {
+          "package_name": "com.unicorn.fedy.survival"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919205575703-47c51ul7p75eoc7se40u2ddi4et1o7ru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEWXuZU97nD8Ct4-cRLp82-liOkIwJ2f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919205575703-47c51ul7p75eoc7se40u2ddi4et1o7ru.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "919205575703-2n4a2shkbovj9pn8r2esgdpk5ttdqeit.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.unicorn.fedy.survival"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919205575703:android:4dd1cb8673e5bbe3bdf052",
+        "android_client_info": {
+          "package_name": "com.unicorn.giant.wanted"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919205575703-47c51ul7p75eoc7se40u2ddi4et1o7ru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEWXuZU97nD8Ct4-cRLp82-liOkIwJ2f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919205575703-47c51ul7p75eoc7se40u2ddi4et1o7ru.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "919205575703-2n4a2shkbovj9pn8r2esgdpk5ttdqeit.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.unicorn.fedy.survival"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919205575703:android:9ce74bf261c5705cbdf052",
+        "android_client_info": {
+          "package_name": "com.unicorn.huggy.fps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919205575703-47c51ul7p75eoc7se40u2ddi4et1o7ru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEWXuZU97nD8Ct4-cRLp82-liOkIwJ2f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919205575703-47c51ul7p75eoc7se40u2ddi4et1o7ru.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "919205575703-2n4a2shkbovj9pn8r2esgdpk5ttdqeit.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.unicorn.fedy.survival"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919205575703:android:53bbd23b2f0a415ebdf052",
+        "android_client_info": {
+          "package_name": "com.unicorn.huggy.money.run"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919205575703-47c51ul7p75eoc7se40u2ddi4et1o7ru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEWXuZU97nD8Ct4-cRLp82-liOkIwJ2f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919205575703-47c51ul7p75eoc7se40u2ddi4et1o7ru.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "919205575703-2n4a2shkbovj9pn8r2esgdpk5ttdqeit.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.unicorn.fedy.survival"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919205575703:android:eb71cb6c02b33b2bbdf052",
+        "android_client_info": {
+          "package_name": "com.unicorn.huggy.smasher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919205575703-47c51ul7p75eoc7se40u2ddi4et1o7ru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEWXuZU97nD8Ct4-cRLp82-liOkIwJ2f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919205575703-47c51ul7p75eoc7se40u2ddi4et1o7ru.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "919205575703-2n4a2shkbovj9pn8r2esgdpk5ttdqeit.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.unicorn.fedy.survival"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919205575703:android:e66206f95c17f660bdf052",
+        "android_client_info": {
+          "package_name": "com.unicorn.huggy.squid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919205575703-47c51ul7p75eoc7se40u2ddi4et1o7ru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEWXuZU97nD8Ct4-cRLp82-liOkIwJ2f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919205575703-47c51ul7p75eoc7se40u2ddi4et1o7ru.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "919205575703-2n4a2shkbovj9pn8r2esgdpk5ttdqeit.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.unicorn.fedy.survival"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919205575703:android:f168775213b11b67bdf052",
+        "android_client_info": {
+          "package_name": "com.unicorn.hugy.craft.fps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919205575703-47c51ul7p75eoc7se40u2ddi4et1o7ru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEWXuZU97nD8Ct4-cRLp82-liOkIwJ2f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919205575703-47c51ul7p75eoc7se40u2ddi4et1o7ru.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "919205575703-2n4a2shkbovj9pn8r2esgdpk5ttdqeit.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.unicorn.fedy.survival"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919205575703:android:907005dce5ce5592bdf052",
+        "android_client_info": {
+          "package_name": "com.unicorn.momy.fps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919205575703-47c51ul7p75eoc7se40u2ddi4et1o7ru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEWXuZU97nD8Ct4-cRLp82-liOkIwJ2f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919205575703-47c51ul7p75eoc7se40u2ddi4et1o7ru.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "919205575703-2n4a2shkbovj9pn8r2esgdpk5ttdqeit.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.unicorn.fedy.survival"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919205575703:android:1f715f58a9b57325bdf052",
+        "android_client_info": {
+          "package_name": "com.unicorn.popi.craft.run"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919205575703-47c51ul7p75eoc7se40u2ddi4et1o7ru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEWXuZU97nD8Ct4-cRLp82-liOkIwJ2f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919205575703-47c51ul7p75eoc7se40u2ddi4et1o7ru.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "919205575703-2n4a2shkbovj9pn8r2esgdpk5ttdqeit.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.unicorn.fedy.survival"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919205575703:android:13a3fe676756be24bdf052",
+        "android_client_info": {
+          "package_name": "com.unicorn.snake.survival"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919205575703-47c51ul7p75eoc7se40u2ddi4et1o7ru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEWXuZU97nD8Ct4-cRLp82-liOkIwJ2f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919205575703-47c51ul7p75eoc7se40u2ddi4et1o7ru.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "919205575703-2n4a2shkbovj9pn8r2esgdpk5ttdqeit.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.unicorn.fedy.survival"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919205575703:android:155a3c7435da4b7bbdf052",
+        "android_client_info": {
+          "package_name": "com.unicorn.survival.money.run"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919205575703-47c51ul7p75eoc7se40u2ddi4et1o7ru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEWXuZU97nD8Ct4-cRLp82-liOkIwJ2f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919205575703-47c51ul7p75eoc7se40u2ddi4et1o7ru.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "919205575703-2n4a2shkbovj9pn8r2esgdpk5ttdqeit.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.unicorn.fedy.survival"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919205575703:android:6848295e6fd7e4c1bdf052",
+        "android_client_info": {
+          "package_name": "com.unicorn.yesorno.khabby"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919205575703-47c51ul7p75eoc7se40u2ddi4et1o7ru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEWXuZU97nD8Ct4-cRLp82-liOkIwJ2f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919205575703-47c51ul7p75eoc7se40u2ddi4et1o7ru.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "919205575703-2n4a2shkbovj9pn8r2esgdpk5ttdqeit.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.unicorn.fedy.survival"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919205575703:android:08709d010110de32bdf052",
+        "android_client_info": {
+          "package_name": "com.unicorn.zombie.amaze"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919205575703-47c51ul7p75eoc7se40u2ddi4et1o7ru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEWXuZU97nD8Ct4-cRLp82-liOkIwJ2f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919205575703-47c51ul7p75eoc7se40u2ddi4et1o7ru.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "919205575703-2n4a2shkbovj9pn8r2esgdpk5ttdqeit.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.unicorn.fedy.survival"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919205575703:android:fae0f9bb751962aebdf052",
+        "android_client_info": {
+          "package_name": "com.unicorn.zombie.craft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919205575703-47c51ul7p75eoc7se40u2ddi4et1o7ru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEWXuZU97nD8Ct4-cRLp82-liOkIwJ2f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919205575703-47c51ul7p75eoc7se40u2ddi4et1o7ru.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "919205575703-2n4a2shkbovj9pn8r2esgdpk5ttdqeit.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.unicorn.fedy.survival"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919205575703:android:48203c0be51cf57cbdf052",
+        "android_client_info": {
+          "package_name": "com.unicorn.zombie.craft.tps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919205575703-47c51ul7p75eoc7se40u2ddi4et1o7ru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEWXuZU97nD8Ct4-cRLp82-liOkIwJ2f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919205575703-47c51ul7p75eoc7se40u2ddi4et1o7ru.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "919205575703-2n4a2shkbovj9pn8r2esgdpk5ttdqeit.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.unicorn.fedy.survival"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919205575703:android:f0534078ce42ea3abdf052",
+        "android_client_info": {
+          "package_name": "com.unicorn.zombie.fps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919205575703-47c51ul7p75eoc7se40u2ddi4et1o7ru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEWXuZU97nD8Ct4-cRLp82-liOkIwJ2f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919205575703-47c51ul7p75eoc7se40u2ddi4et1o7ru.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "919205575703-2n4a2shkbovj9pn8r2esgdpk5ttdqeit.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.unicorn.fedy.survival"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

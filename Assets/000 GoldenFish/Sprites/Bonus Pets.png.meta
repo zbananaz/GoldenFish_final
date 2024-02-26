@@ -1,0 +1,3876 @@
+fileFormatVersion: 2
+guid: ad8b6f6caea7c4484b1c04430d8ccda5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bonus Pets_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 739
+        width: 76
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51937365b012b4b3c9b554e57e0fd1e3
+      internalID: 1104989457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 738
+        width: 74
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abeda3355f22e449f87e0f2114087a32
+      internalID: 1799094917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 738
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b488d03daa9a4f6e8446f2fb15bedf6
+      internalID: 1867755863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_3
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 737
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287e4cf00c4c24d40b496771d6a6a534
+      internalID: 247819735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_4
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 737
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e411931a5dfe4229a1a6384fed4789e
+      internalID: -400205072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_5
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 737
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10ac7ceff18444fdb20488e46e340a8
+      internalID: -524296448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_6
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 737
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876d419c41f0d41c38e65020feebd992
+      internalID: 1437817340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_7
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 739
+        width: 69
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1290e6dbddb34437ea32beb2d414c809
+      internalID: 1489263691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 738
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b85b2e0fde6401ab346ab16766b24b
+      internalID: -602703245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 739
+        width: 73
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2f5164f1c10431a9ab0e34fe9d6ca0
+      internalID: -471747976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_10
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 738
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7691083e9110f404baf13b5c396c53cc
+      internalID: -593510066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_11
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 738
+        width: 57
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ecd4b310b584639a4f61453b8947e2
+      internalID: -206503943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_12
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 738
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09e945fed8314194b0f953aae2235d1
+      internalID: 720061906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_13
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 738
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce05cb60be1c4cd5a3305b0f2ca7703
+      internalID: -1226934671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_14
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 738
+        width: 71
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3bf12c0837b147f1835a5215af1afca
+      internalID: -1337123465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_15
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 738
+        width: 72
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5eee325e6e04f76a5038c98343e2b7
+      internalID: -1267037689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_16
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 738
+        width: 73
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336c420fc917641b89fffa6a3121cdb8
+      internalID: -296022600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_17
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 738
+        width: 71
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3c1cafbb3c3413da6afe00a81e1c70
+      internalID: -1876622071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_18
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 738
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470d5c286be2641e2b416247572e1314
+      internalID: -1717422643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_19
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 738
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1c8801635354d72a995e9e70701628
+      internalID: 437504926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 659
+        width: 76
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc7b50a1e48e4655b85a2d6db70ba76
+      internalID: 272640659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 658
+        width: 75
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265da73706e124af8bfd8cc9fbe2fc20
+      internalID: 1650267613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 658
+        width: 72
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc031519cb4eb4c0bb26d3c5ff07e4d4
+      internalID: -748822781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_23
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 658
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7804193f7cbf04e968cac90df7db06c8
+      internalID: -1212601827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_24
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 658
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16796dc411df4803ae2f698dee42333
+      internalID: 1724399605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_25
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 659
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95e9e967741c48f384755159ac123c7
+      internalID: 1791521538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_26
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 658
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ea19de6701b4efc9dfb7e836e6ec41
+      internalID: -1932971692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_27
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 658
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9071b0c8b60c645578dbe41173888044
+      internalID: -1171902406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_28
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 658
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9643ef9fd680f43b6baa2ac0cb143fd4
+      internalID: 543365034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_29
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 659
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4d43ef6d52540ffabf386810cef86c
+      internalID: -364445159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_30
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 658
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9564db9940ef46608fbf20b3a1a86c2
+      internalID: -947503612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_31
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 658
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ed4678c9b684df2a9fbebcf554ba50
+      internalID: -275651096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_32
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 658
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542c86fa02e324d37aeb368c2988667f
+      internalID: -1514259824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_33
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 658
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f968ea4908cc042338fa2e477e830c7e
+      internalID: 1601873027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_34
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 659
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586f240e81f024aec87f6e8234301664
+      internalID: -476208842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_35
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 659
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564760ee26d24437bba1ed9db09fc2c4
+      internalID: -2004375769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_36
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 659
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34b4d7088a8a414498f664c70b1e2c2
+      internalID: 1494444649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_37
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 659
+        width: 58
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921f408bca25f40a78f8d057608dc0ff
+      internalID: -1552624772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_38
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 659
+        width: 57
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: facd5066937334c0aa9ddb217bba3d3b
+      internalID: 1354733423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_39
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 658
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6660e3c4cf2134aee8789ce9074c839c
+      internalID: -860342364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_40
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 590
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9542f4c113c8d4857b2386b98f479e1a
+      internalID: -1668533873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_41
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 590
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dafb63cb6f1b3449e9738a7259f5f8c9
+      internalID: 2103951068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_42
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 590
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4c82768f59743868be25381b3e5c74
+      internalID: 180460951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_43
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 589
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92044fe57458c46fa94171bf4c928fa6
+      internalID: 1768716468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_44
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 589
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101fcc17cbafb4297a195775f7244c40
+      internalID: -570842131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_45
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 589
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70323ddf042f24d55b1a223a32dc3aa9
+      internalID: 593380801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_46
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 590
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9c22b66a91447feada930388b31148
+      internalID: -1207644013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_47
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 590
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45981bbb8b88d4ccdbc13aeae770eda4
+      internalID: 1201952579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_48
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 590
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79e8e0f1333c48ddaea499e85304473
+      internalID: -1056519687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_49
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 590
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c135cc312e945e384b86f891838445
+      internalID: 425894227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_50
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 589
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfcca2fd562a14984b16d5d6e1b25ed5
+      internalID: -958450618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_51
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 589
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c5831cab61a4da380e5602c1547707
+      internalID: -1061331598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_52
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 589
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428d7c9b3cf2347008b8d0d84026ef4b
+      internalID: 1153607851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_53
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 589
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c747edcfe986444fdb634c1d16917478
+      internalID: -333293622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_54
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 589
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424204059c57d407f937a8b6d9642817
+      internalID: 1598148019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_55
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 589
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820abea6aa6024e4791103ade4bc18e3
+      internalID: 2804999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_56
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 589
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2565210672ea4f228ef9e2a06014770
+      internalID: -444710469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_57
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 589
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e7ea759ac0f45238f614d62281b7a2
+      internalID: 1651869499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_58
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 589
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540b9b50f6efa42f9aa77d90e9579f0d
+      internalID: -1184077011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_59
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 589
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e9a637484ad4a86b4c56b3ea24e70a
+      internalID: 262512564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 484
+        width: 74
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444c7b2145ee845f78570706313d2ac8
+      internalID: 1945339496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 484
+        width: 74
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7466c0bf00874cb1aab1392e1eb5987
+      internalID: -1344953577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_62
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 484
+        width: 74
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f1cfddc025f41b9a861d7c8d0fa524
+      internalID: -1609930523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 484
+        width: 73
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f63c239d20a4337b89850044161fcb
+      internalID: -1520473636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_64
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 484
+        width: 73
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5e9512e4e5140d9b02f0edd17802c6
+      internalID: -1265051494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_65
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 484
+        width: 72
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87f732f35995498283239f9f3954310
+      internalID: 436419192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_66
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 484
+        width: 73
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53b4b75c64eb458194b9dd869e1a87e
+      internalID: 1010098461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_67
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 484
+        width: 73
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805178a33b2754d7989c553573b503d9
+      internalID: 495816233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_68
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 484
+        width: 74
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5a5957f6bb9414e8a1d381fb259775
+      internalID: 2044319066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_69
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 484
+        width: 74
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf23b4eaecea4459afc9842baa8c6f9
+      internalID: 1220092721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_70
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 482
+        width: 73
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82089b90d39ce4227ab7bcb6d0070b8b
+      internalID: 1717315219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_71
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 482
+        width: 73
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432ac6d6e5c9f4eb3992c4796ca8140c
+      internalID: 316641771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_72
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 481
+        width: 73
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4ee7c4732144ab698ad168f3992cb9
+      internalID: 714595578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_73
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 479
+        width: 75
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f0fbbde5aac4dcea2f5ad6c184fd69
+      internalID: -959332491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_74
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 478
+        width: 75
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ab033c454d743ea9a6be55aca3dd19
+      internalID: 495717142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_75
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 477
+        width: 74
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c779d9ddcd4864971a3ab252df7b281f
+      internalID: 685675840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_76
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 477
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01a8892fdc32454482603a1baba514f
+      internalID: -1530006474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_77
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 478
+        width: 73
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6631d7f8ed314078a9ea80c88e48fe8
+      internalID: -741255426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_78
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 480
+        width: 74
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f88430946ffc43e3b918b7c52a262c6
+      internalID: -1453400142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_79
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 481
+        width: 74
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c996a27a8f08948d0a7accad67868331
+      internalID: 666691618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_80
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 422
+        width: 74
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105780dcdfd45423eb1d5f6602f95950
+      internalID: -1637872234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_81
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 422
+        width: 74
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee967db6ac5848eab4e9ddf3a4a1e50
+      internalID: -1525398190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_82
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 422
+        width: 72
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172775cf96bf6494988c347162dd4d19
+      internalID: 520740047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_83
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 422
+        width: 62
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764236a53dded4a929c068a7c7bae33c
+      internalID: 567356014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_84
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 422
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be20207e211c4221a96ef890c37ac68
+      internalID: -784232994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_85
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 422
+        width: 60
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b11ffcfcabed4cda91c2b2e80ac5b17
+      internalID: 1473299819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_86
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 422
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d40dc6281a741528b206a3471d7ca3
+      internalID: 1094988113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_87
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 422
+        width: 59
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ee7c9860cb34a70b42d8e739265c7a
+      internalID: -1202951911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_88
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 422
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ec998dc17f74e8cb1dd1b385c275d1
+      internalID: -972873081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_89
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 422
+        width: 74
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cc708a5aecf4855bb6fa0626117d65
+      internalID: -626237490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_90
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 397
+        width: 74
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac8f696d768d4863b4eef475df1ede0
+      internalID: -227635057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_91
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 397
+        width: 74
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c769f9345ea4567b87bf7383ec80dc
+      internalID: -1189914354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_92
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 396
+        width: 70
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1b64a927cca439096c237b8a538843
+      internalID: 709143530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_93
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 397
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e906d95fd9c499c9a997f864531843
+      internalID: 1845583775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_94
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 398
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e6c13f6ffda4e97b1c1bcab99829f0
+      internalID: 2047042358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_95
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 400
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ce54b3347614dcc9cb3e84e0bb4ff6
+      internalID: 1545682629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_96
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 402
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23dde8d4a6504ffb95a16cacac0e1c6
+      internalID: -2002700244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_97
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 398
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5e1de958bff4372a2c8ceef02fcd9a
+      internalID: 1127120119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_98
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 398
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59f0a7e74313439ab0264d4127312d6
+      internalID: -256418226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_99
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 399
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e216a18bb1443bea57c2fb1956c9e1
+      internalID: 599897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_100
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 354
+        width: 74
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb661cc0c2bf24c1d9a05cb15c67677a
+      internalID: -598194701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_101
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 354
+        width: 74
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69402b661422a44b8b44b14fa0909ab1
+      internalID: 2014457317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_102
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 354
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ec45dd89f3a4a5ab64e51a8183ebb4
+      internalID: -342702407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_103
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 354
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb458e5ef1394d2db6f63a4bca0a89f
+      internalID: 1753631037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_104
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 353
+        width: 68
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a951ddb8d3941beb9be8235423d097
+      internalID: 1933326572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_105
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 322
+        width: 73
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beadcc2b01be0478a9874596cb466a2f
+      internalID: 435457897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_106
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 322
+        width: 73
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78def1e590464a9db4aa07fdb084b1f
+      internalID: -1474085680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_107
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 321
+        width: 73
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3705863c5eb141d0a14516ff217597f
+      internalID: -1410261880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_108
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 319
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698a5b07973fe4ad582aa74f7d3ce52d
+      internalID: 412011121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_109
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 318
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8901016f1b6b74df4b5a66bcb9317dcf
+      internalID: -640202666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_110
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 317
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9cad702e9cc24316b0650a2b32a85e1
+      internalID: -1922247164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_111
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 317
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1c8ee0b49514a9a8885b3fa3de5ea9
+      internalID: 416152230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_112
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 318
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34736c00b8f254b7fb91a92e4891e462
+      internalID: 1631554275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_113
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 320
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f45a77157da4aa7b74de2ed1ce6b23
+      internalID: -1885063178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_114
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 321
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0942b0bfcf74550bf866b99d4d0737
+      internalID: -1072575573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_115
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 296
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62df7e23421a49a3be13c4cb1346dd5
+      internalID: -435741413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_116
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 300
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6adebf048f94505ab5ebd259e1e6f4
+      internalID: 134696698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_117
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 301
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca89e67eaff04286a063ffacacf02d1
+      internalID: -1053212408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_118
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 302
+        width: 140
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598347c4aa71647f7a2fabab51c73a68
+      internalID: -1341990035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_119
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 237
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ecd2547e4d749b9835cee39a0dc61b
+      internalID: -659700118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_120
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 237
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea962605ec7f9499f88ec97f0a3758f8
+      internalID: 1261408875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_121
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 236
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457cb0474a3c74ea295c1c900f182d24
+      internalID: -197457222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_122
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 237
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc14878ed76642a98864df19035568a
+      internalID: 535952773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_123
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 238
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1628a30337793483aa574822f47bdd8c
+      internalID: 319113075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_124
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 240
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c58ae5e47ff42079e2bc52567605b9
+      internalID: 1805456486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_125
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 242
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b2b0c8cdead4380ad8be298d4b3890
+      internalID: -2016778934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_126
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 238
+        width: 51
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844f2ae61abe94fc69c440cda0425c0a
+      internalID: -1544516979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_127
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 238
+        width: 62
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2241aecd1bf9445e3b3bfff2b59d16ad
+      internalID: -1861644329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_128
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 239
+        width: 69
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1959f3ba8af4d60a96e2e05fd777ff
+      internalID: -1846769025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_129
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 221
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7882ec96ddc4cb2b6373a52a5327c5
+      internalID: 196755108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_130
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 221
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e6f8c85ad7f450a93edad60c18580d
+      internalID: 1822087530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_131
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 221
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801255c8009d1475b9043f64ebe19a46
+      internalID: 1872038537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_132
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 221
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1050db608a3294cf381d2160824e4e0d
+      internalID: 1891929426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_133
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 221
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1bd79ac0d0d443cb5f0cccbb0b9b59
+      internalID: 839892919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_134
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 221
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bb1cb011f684fdfa2654f7a011a7ce
+      internalID: 5996595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_135
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 221
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b374cd80305f4dac87f03c15e7531d4
+      internalID: 1949873128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_136
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 221
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc47054409584007b35021613149f93
+      internalID: 2058817253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_137
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 221
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7da908af361c41e4932763bce092419
+      internalID: -881832821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_138
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 221
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760bac763688c405dbe86e9f9ec41b62
+      internalID: 1838754536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_139
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 157
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba498de124f947519b7f84cef2e5434
+      internalID: -2004712279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_140
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 158
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d593b9523d84bd2b87c9488c4e208e
+      internalID: -924866704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_141
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 158
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a7944663a9f4f188b0172ef2ababaf
+      internalID: -1299559428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_142
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 156
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36ff321f84074a10bd253ddd87421fd
+      internalID: -924115109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_143
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 155
+        width: 68
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a950adc13bbce4de88b934589e1e2866
+      internalID: 414941640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_144
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 155
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b015f8e6e6fa14af1bcc8ddb5ddb1b9e
+      internalID: 1676625401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_145
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 155
+        width: 68
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de192ac63ff06454f951659febd04d5e
+      internalID: 555451639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_146
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 156
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9441e05a366054c59bbbe3d073d9151f
+      internalID: -771965940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_147
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 158
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff2cf4701ca04ced831e38e4debac37
+      internalID: 330733313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_148
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 158
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e500f10514804a069eed241fca300c5
+      internalID: -1789621231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_149
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12
+        width: 411
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5bf1357c8c814fc5bcf6967c6c8fce7
+      internalID: -135022851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_150
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 77
+        width: 74
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e14885c42564c4d96625d8fd04cd0d
+      internalID: -1751358394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_151
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 77
+        width: 74
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f35e94afe7643b3a0b8c8ba29f139c
+      internalID: -1782626606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_152
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 77
+        width: 74
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fe66b2d4c314d4f85d383a3d811b86
+      internalID: 1576467531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_153
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 77
+        width: 74
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc5ab4c4295b4b869cac6de288c5f34
+      internalID: -271025829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_154
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 77
+        width: 74
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02237dd440d5a4053a4a5261ce88dd38
+      internalID: -976064537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_155
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 77
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be9e4978bd334da8b96f34929dade87
+      internalID: -28165385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_156
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 77
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea938a207e11494598c9287ba9b18ec
+      internalID: -1466228822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_157
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 77
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53258d098040442badc23a46196b663
+      internalID: -36826894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_158
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 77
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e40eecf8cecd4d529255eeae436f32e
+      internalID: -531570097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_159
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 77
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c24ff04eab14a4dbf2b7655f48098c
+      internalID: 1479293132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_161
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 3
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daeb0648173e94484a70231866c15976
+      internalID: -1680000982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_162
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 3
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b11993243174b928001caf10d0395d
+      internalID: -1676055739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_163
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 3
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140528f4f350d4b26b7839667d5052a2
+      internalID: 1842976795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_164
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 1
+        width: 57
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37cad912d1a4d43e1bb5a07f0888f0b6
+      internalID: 2137465815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_165
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 0
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84490bb22ef4d40a0917198d2bc4153f
+      internalID: -2064576872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_166
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 0
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8f3a7236ee246678ad53235251aa9c
+      internalID: -1717436775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_167
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 0
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7a5e0b8f0de4d1587548a650a3f5e1
+      internalID: 888098378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_168
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa4851d5fb9d42768fa0a5686138c88
+      internalID: -464417439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_169
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 1
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba88f94acb7f453295fe99ba9fa045e
+      internalID: -868724143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonus Pets_170
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 3
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9844c47196c4a477799ec5e4fc4061b4
+      internalID: -99104784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Bonus Pets_0: 1104989457
+      Bonus Pets_1: 1799094917
+      Bonus Pets_10: -593510066
+      Bonus Pets_100: -598194701
+      Bonus Pets_101: 2014457317
+      Bonus Pets_102: -342702407
+      Bonus Pets_103: 1753631037
+      Bonus Pets_104: 1933326572
+      Bonus Pets_105: 435457897
+      Bonus Pets_106: -1474085680
+      Bonus Pets_107: -1410261880
+      Bonus Pets_108: 412011121
+      Bonus Pets_109: -640202666
+      Bonus Pets_11: -206503943
+      Bonus Pets_110: -1922247164
+      Bonus Pets_111: 416152230
+      Bonus Pets_112: 1631554275
+      Bonus Pets_113: -1885063178
+      Bonus Pets_114: -1072575573
+      Bonus Pets_115: -435741413
+      Bonus Pets_116: 134696698
+      Bonus Pets_117: -1053212408
+      Bonus Pets_118: -1341990035
+      Bonus Pets_119: -659700118
+      Bonus Pets_12: 720061906
+      Bonus Pets_120: 1261408875
+      Bonus Pets_121: -197457222
+      Bonus Pets_122: 535952773
+      Bonus Pets_123: 319113075
+      Bonus Pets_124: 1805456486
+      Bonus Pets_125: -2016778934
+      Bonus Pets_126: -1544516979
+      Bonus Pets_127: -1861644329
+      Bonus Pets_128: -1846769025
+      Bonus Pets_129: 196755108
+      Bonus Pets_13: -1226934671
+      Bonus Pets_130: 1822087530
+      Bonus Pets_131: 1872038537
+      Bonus Pets_132: 1891929426
+      Bonus Pets_133: 839892919
+      Bonus Pets_134: 5996595
+      Bonus Pets_135: 1949873128
+      Bonus Pets_136: 2058817253
+      Bonus Pets_137: -881832821
+      Bonus Pets_138: 1838754536
+      Bonus Pets_139: -2004712279
+      Bonus Pets_14: -1337123465
+      Bonus Pets_140: -924866704
+      Bonus Pets_141: -1299559428
+      Bonus Pets_142: -924115109
+      Bonus Pets_143: 414941640
+      Bonus Pets_144: 1676625401
+      Bonus Pets_145: 555451639
+      Bonus Pets_146: -771965940
+      Bonus Pets_147: 330733313
+      Bonus Pets_148: -1789621231
+      Bonus Pets_149: -135022851
+      Bonus Pets_15: -1267037689
+      Bonus Pets_150: -1751358394
+      Bonus Pets_151: -1782626606
+      Bonus Pets_152: 1576467531
+      Bonus Pets_153: -271025829
+      Bonus Pets_154: -976064537
+      Bonus Pets_155: -28165385
+      Bonus Pets_156: -1466228822
+      Bonus Pets_157: -36826894
+      Bonus Pets_158: -531570097
+      Bonus Pets_159: 1479293132
+      Bonus Pets_16: -296022600
+      Bonus Pets_160: -1347263574
+      Bonus Pets_161: -1680000982
+      Bonus Pets_162: -1676055739
+      Bonus Pets_163: 1842976795
+      Bonus Pets_164: 2137465815
+      Bonus Pets_165: -2064576872
+      Bonus Pets_166: -1717436775
+      Bonus Pets_167: 888098378
+      Bonus Pets_168: -464417439
+      Bonus Pets_169: -868724143
+      Bonus Pets_17: -1876622071
+      Bonus Pets_170: -99104784
+      Bonus Pets_18: -1717422643
+      Bonus Pets_19: 437504926
+      Bonus Pets_2: 1867755863
+      Bonus Pets_20: 272640659
+      Bonus Pets_21: 1650267613
+      Bonus Pets_22: -748822781
+      Bonus Pets_23: -1212601827
+      Bonus Pets_24: 1724399605
+      Bonus Pets_25: 1791521538
+      Bonus Pets_26: -1932971692
+      Bonus Pets_27: -1171902406
+      Bonus Pets_28: 543365034
+      Bonus Pets_29: -364445159
+      Bonus Pets_3: 247819735
+      Bonus Pets_30: -947503612
+      Bonus Pets_31: -275651096
+      Bonus Pets_32: -1514259824
+      Bonus Pets_33: 1601873027
+      Bonus Pets_34: -476208842
+      Bonus Pets_35: -2004375769
+      Bonus Pets_36: 1494444649
+      Bonus Pets_37: -1552624772
+      Bonus Pets_38: 1354733423
+      Bonus Pets_39: -860342364
+      Bonus Pets_4: -400205072
+      Bonus Pets_40: -1668533873
+      Bonus Pets_41: 2103951068
+      Bonus Pets_42: 180460951
+      Bonus Pets_43: 1768716468
+      Bonus Pets_44: -570842131
+      Bonus Pets_45: 593380801
+      Bonus Pets_46: -1207644013
+      Bonus Pets_47: 1201952579
+      Bonus Pets_48: -1056519687
+      Bonus Pets_49: 425894227
+      Bonus Pets_5: -524296448
+      Bonus Pets_50: -958450618
+      Bonus Pets_51: -1061331598
+      Bonus Pets_52: 1153607851
+      Bonus Pets_53: -333293622
+      Bonus Pets_54: 1598148019
+      Bonus Pets_55: 2804999
+      Bonus Pets_56: -444710469
+      Bonus Pets_57: 1651869499
+      Bonus Pets_58: -1184077011
+      Bonus Pets_59: 262512564
+      Bonus Pets_6: 1437817340
+      Bonus Pets_60: 1945339496
+      Bonus Pets_61: -1344953577
+      Bonus Pets_62: -1609930523
+      Bonus Pets_63: -1520473636
+      Bonus Pets_64: -1265051494
+      Bonus Pets_65: 436419192
+      Bonus Pets_66: 1010098461
+      Bonus Pets_67: 495816233
+      Bonus Pets_68: 2044319066
+      Bonus Pets_69: 1220092721
+      Bonus Pets_7: 1489263691
+      Bonus Pets_70: 1717315219
+      Bonus Pets_71: 316641771
+      Bonus Pets_72: 714595578
+      Bonus Pets_73: -959332491
+      Bonus Pets_74: 495717142
+      Bonus Pets_75: 685675840
+      Bonus Pets_76: -1530006474
+      Bonus Pets_77: -741255426
+      Bonus Pets_78: -1453400142
+      Bonus Pets_79: 666691618
+      Bonus Pets_8: -602703245
+      Bonus Pets_80: -1637872234
+      Bonus Pets_81: -1525398190
+      Bonus Pets_82: 520740047
+      Bonus Pets_83: 567356014
+      Bonus Pets_84: -784232994
+      Bonus Pets_85: 1473299819
+      Bonus Pets_86: 1094988113
+      Bonus Pets_87: -1202951911
+      Bonus Pets_88: -972873081
+      Bonus Pets_89: -626237490
+      Bonus Pets_9: -471747976
+      Bonus Pets_90: -227635057
+      Bonus Pets_91: -1189914354
+      Bonus Pets_92: 709143530
+      Bonus Pets_93: 1845583775
+      Bonus Pets_94: 2047042358
+      Bonus Pets_95: 1545682629
+      Bonus Pets_96: -2002700244
+      Bonus Pets_97: 1127120119
+      Bonus Pets_98: -256418226
+      Bonus Pets_99: 599897
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,88 @@
+Pufferfish.png
+size:1024,256
+filter:Linear,Linear
+pma:true
+1
+bounds:824,230,24,37
+offsets:1,1,26,39
+rotate:90
+10
+bounds:2,2,35,29
+offsets:1,1,37,31
+11
+bounds:928,231,23,28
+offsets:1,1,25,30
+rotate:90
+12
+bounds:863,230,24,30
+offsets:1,1,26,32
+rotate:90
+13
+bounds:958,232,22,28
+offsets:1,1,24,30
+rotate:90
+2
+bounds:482,2,28,34
+offsets:1,1,30,36
+3
+bounds:644,191,40,36
+offsets:2,1,43,38
+4
+bounds:789,222,33,32
+offsets:1,1,36,34
+5
+bounds:512,2,28,34
+offsets:1,1,30,36
+6
+bounds:895,232,22,31
+offsets:1,1,24,33
+rotate:90
+7
+bounds:706,231,23,41
+offsets:1,1,26,43
+rotate:90
+8
+bounds:749,222,32,38
+offsets:2,1,35,41
+rotate:90
+9
+bounds:988,229,25,25
+offsets:1,1,27,27
+Duoi
+bounds:482,146,62,108
+offsets:2,1,65,110
+Layer 12
+bounds:546,147,14,47
+offsets:1,1,16,49
+rotate:90
+Than
+bounds:2,33,238,221
+Than2
+bounds:242,33,238,221
+offsets:1,1,240,223
+Vay 1
+bounds:596,198,46,56
+offsets:1,2,49,59
+Vay 2
+bounds:482,38,37,54
+offsets:2,2,40,58
+rotate:90
+mat giua L
+bounds:546,163,47,30
+mat giua R
+bounds:92,10,21,23
+rotate:90
+mat ngoai L
+bounds:482,77,55,67
+offsets:1,2,58,70
+mat ngoai R
+bounds:644,229,25,60
+offsets:1,2,27,63
+rotate:90
+mat trong L
+bounds:546,195,48,59
+offsets:1,1,50,61
+mat trong R
+bounds:39,10,21,51
+offsets:1,2,24,54
+rotate:90

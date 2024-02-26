@@ -1,0 +1,641 @@
+fileFormatVersion: 2
+guid: 8f7ace3777107452eb0a51ff67e68e6f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Naga-cutout_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1144
+        width: 131
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf46718b32977465fabe82efd3a1099a
+      internalID: -2105055583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Naga-cutout_1
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1144
+        width: 138
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa45386e11f0e429fa2969a2e3c814b5
+      internalID: 137607654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Naga-cutout_2
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1144
+        width: 123
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe5a8c227dbd404ca50c45f537ae4a1
+      internalID: 1070082121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Naga-cutout_3
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1144
+        width: 124
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2a9eed3e41b49d2a72ce417b981cda
+      internalID: 1083652406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Naga-cutout_4
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1144
+        width: 126
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c29333a28f2447b486b62aa368468b4
+      internalID: -1988896200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Naga-cutout_5
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1144
+        width: 123
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a574271124a4943a6cd72873a47695
+      internalID: -22923637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Naga-cutout_6
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1144
+        width: 122
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea898bee19a1247a891bb7dbb8f0ad9a
+      internalID: 2104620204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Naga-cutout_7
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1144
+        width: 137
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582a0f44db28145d2929f11dfb7bf326
+      internalID: -39562119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Naga-cutout_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 845
+        width: 126
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cc75cd3369c412187afb3dbfb196bd
+      internalID: -2001578817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Naga-cutout_17
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 845
+        width: 135
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e49f30daac7a48a5bd6fac1285d2be4
+      internalID: 1727275404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Naga-cutout_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 845
+        width: 134
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e321dce801d2458f938f1c42a3f9254
+      internalID: -371551028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Naga-cutout_19
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 845
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73264795134ff47a8b2a336959eca7c8
+      internalID: -1010068841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Naga-cutout_20
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 845
+        width: 206
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982e8af3ccaac4a3786a16574df0c002
+      internalID: -1320971218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Naga-cutout_21
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 845
+        width: 218
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca792dd45037748ebb6528f9fbd3c39c
+      internalID: 128548473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Naga-cutout_22
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 845
+        width: 191
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac68e721ed7dc4bce8c4d40bd46d2e8d
+      internalID: 1076057783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Naga-cutout_30
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 327
+        width: 139
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a626ee13a9e2c4aa4b9928186a7d1283
+      internalID: -113357158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Naga-cutout_31
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 327
+        width: 146
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1991d8301321340c4981f498dd0a78c4
+      internalID: 1087824277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Naga-cutout_32
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 327
+        width: 149
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe210d94200c4d459f468a40fbef7a9
+      internalID: -458653325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Naga-cutout_33
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 299
+        width: 172
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd390f7e6be4943e4a6b8147aef66920
+      internalID: 786097195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Naga-cutout_34
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 299
+        width: 174
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325fd6054a6e94bbdb12064b06038368
+      internalID: 1218055186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Naga-cutout_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 174
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f3c02f92db34442bb7dd6ee099c403
+      internalID: 1452412086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Ragnarok Online - Naga-cutout_41
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 0
+        width: 174
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721ba4aaeed9e4a489c32e52359514d3
+      internalID: 517699110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Ragnarok Online - Naga-cutout_0: -2105055583
+      PC Computer - Ragnarok Online - Naga-cutout_1: 137607654
+      PC Computer - Ragnarok Online - Naga-cutout_10: -1087504662
+      PC Computer - Ragnarok Online - Naga-cutout_11: -356103835
+      PC Computer - Ragnarok Online - Naga-cutout_12: -1976622802
+      PC Computer - Ragnarok Online - Naga-cutout_13: -81804321
+      PC Computer - Ragnarok Online - Naga-cutout_14: -1904538948
+      PC Computer - Ragnarok Online - Naga-cutout_15: 2055531449
+      PC Computer - Ragnarok Online - Naga-cutout_16: -2001578817
+      PC Computer - Ragnarok Online - Naga-cutout_17: 1727275404
+      PC Computer - Ragnarok Online - Naga-cutout_18: -371551028
+      PC Computer - Ragnarok Online - Naga-cutout_19: -1010068841
+      PC Computer - Ragnarok Online - Naga-cutout_2: 1070082121
+      PC Computer - Ragnarok Online - Naga-cutout_20: -1320971218
+      PC Computer - Ragnarok Online - Naga-cutout_21: 128548473
+      PC Computer - Ragnarok Online - Naga-cutout_22: 1076057783
+      PC Computer - Ragnarok Online - Naga-cutout_23: -2139011846
+      PC Computer - Ragnarok Online - Naga-cutout_24: 907163445
+      PC Computer - Ragnarok Online - Naga-cutout_25: 382002174
+      PC Computer - Ragnarok Online - Naga-cutout_26: 1230633792
+      PC Computer - Ragnarok Online - Naga-cutout_27: 1118626912
+      PC Computer - Ragnarok Online - Naga-cutout_28: 903604367
+      PC Computer - Ragnarok Online - Naga-cutout_29: 939687085
+      PC Computer - Ragnarok Online - Naga-cutout_3: 1083652406
+      PC Computer - Ragnarok Online - Naga-cutout_30: -113357158
+      PC Computer - Ragnarok Online - Naga-cutout_31: 1087824277
+      PC Computer - Ragnarok Online - Naga-cutout_32: -458653325
+      PC Computer - Ragnarok Online - Naga-cutout_33: 786097195
+      PC Computer - Ragnarok Online - Naga-cutout_34: 1218055186
+      PC Computer - Ragnarok Online - Naga-cutout_35: 1595024943
+      PC Computer - Ragnarok Online - Naga-cutout_36: -391517779
+      PC Computer - Ragnarok Online - Naga-cutout_37: -1263831532
+      PC Computer - Ragnarok Online - Naga-cutout_38: -1778650086
+      PC Computer - Ragnarok Online - Naga-cutout_39: -1005753230
+      PC Computer - Ragnarok Online - Naga-cutout_4: -1988896200
+      PC Computer - Ragnarok Online - Naga-cutout_40: 1452412086
+      PC Computer - Ragnarok Online - Naga-cutout_41: 517699110
+      PC Computer - Ragnarok Online - Naga-cutout_42: -1930135305
+      PC Computer - Ragnarok Online - Naga-cutout_43: 2027376060
+      PC Computer - Ragnarok Online - Naga-cutout_5: -22923637
+      PC Computer - Ragnarok Online - Naga-cutout_6: 2104620204
+      PC Computer - Ragnarok Online - Naga-cutout_7: -39562119
+      PC Computer - Ragnarok Online - Naga-cutout_8: 1548747572
+      PC Computer - Ragnarok Online - Naga-cutout_9: 1845866772
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

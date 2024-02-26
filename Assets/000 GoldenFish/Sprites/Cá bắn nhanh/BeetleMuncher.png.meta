@@ -1,0 +1,1675 @@
+fileFormatVersion: 2
+guid: bc33f1de9d62749bd991cc9567486491
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BeetleMuncher_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 484
+        width: 66
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690281d6747ad4fda93e24f1c068e46e
+      internalID: 1725122079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 483
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce679db4a37024642a35f98b9035a937
+      internalID: -1524529739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 484
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f1ea588d3ea451cb9b9ee53b9cb602
+      internalID: 1677951106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 485
+        width: 66
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23016eb4cee8b45808fbd51ce36bc1ba
+      internalID: 1046977000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 486
+        width: 68
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da30062e2f1ec45bf8802eb409a89a00
+      internalID: -1369825760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 486
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad864bf6d3834a099f9871b4f340441
+      internalID: -2143694547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 486
+        width: 65
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce86a1d92ede438181265602b9226d4
+      internalID: 1419382353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 485
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5c5f5795a5c44c79508b22acd388e6
+      internalID: -1568236184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 484
+        width: 66
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50bfccf845df4f6482fc09970f87990
+      internalID: 806942500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 483
+        width: 68
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccab5a5ac6bdc4404ab0e58d08d32e4f
+      internalID: 81855812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 403
+        width: 69
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48efdff47a234d06a3310e9e99f19db
+      internalID: 862120731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_11
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 403
+        width: 68
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89065567796b549fb8a498d18d18761c
+      internalID: -146730608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_12
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 403
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fcb933f5c5784d8cb1502bbade453fd
+      internalID: -1393775461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_13
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 406
+        width: 57
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd36fc260c6d4cc9969e75ad2ee6bf3
+      internalID: -1700132196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_14
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 406
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a69f2e071fb4df39f71d95f425bdf9
+      internalID: -1409404174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_15
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 405
+        width: 52
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27709d14d221147fd8ba582c3decc311
+      internalID: -334768915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_16
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 404
+        width: 51
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d4a31e6ed12406fb2fb675defd39f4
+      internalID: -52161846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_17
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 404
+        width: 50
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69437929b3ed542a986628a5fef9efcb
+      internalID: 13155239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_18
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 404
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef0d1e6abe094a75b8ba251e712590b
+      internalID: 1747835905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 403
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae61947abf6f74b36bddb784aa6fa8f6
+      internalID: -1404192259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 323
+        width: 69
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfa93d781cda4bfcb62ecedd53092b9
+      internalID: -1269027030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 323
+        width: 69
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64f58c67e00443f6b6d03cad05b4da7
+      internalID: -1221036469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 321
+        width: 68
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2405ff404c1be49dd8b8faba70e0c850
+      internalID: -1692419960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_23
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 320
+        width: 67
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156edcb6d9140486c819bdde574b4aa2
+      internalID: -735968151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_24
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 320
+        width: 66
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681858315e97a439ba5225bdb1a86907
+      internalID: 1647107631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_25
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 320
+        width: 65
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb37dc6268cb409b869c8706353b19b
+      internalID: 1787622780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_26
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 320
+        width: 66
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3409b9f93dde541288cb2fb4e12be735
+      internalID: -543901662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_27
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 320
+        width: 67
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449d7da6c92c74cbe81f8ba1e716d796
+      internalID: 48887792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_28
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 321
+        width: 68
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b8e75cd53154d9bb8b8a69b6e1b925
+      internalID: 1269860382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_29
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 323
+        width: 69
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f688bbed6cfd94b988cc3c78dd840781
+      internalID: 2082415816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 244
+        width: 66
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0e7bbb3639b4036a3b0911d95e7026
+      internalID: -1220585312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 243
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5eb5139937ad47b9a3bcb7030774a92
+      internalID: -1244471272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 244
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce135fe15bb3c47cdb3d9f4ff6aa39d4
+      internalID: 1816600967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 245
+        width: 66
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51807f350c77d4baebd9b77a4b34238b
+      internalID: -203064077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 246
+        width: 68
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee86fdafe2aa40abac93b58d129b544
+      internalID: 2017846297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 246
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a6c5a46974f4cbcb8bbf040b86eef3
+      internalID: -1242865098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 246
+        width: 65
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285a7967a26bd41cc87661f58c9f5c4c
+      internalID: 1606641284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_37
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 245
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c5c3b20777646c2b033e7654262fea
+      internalID: -1686755122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_38
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 244
+        width: 66
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b93c14f7e3646b0a8a4b672f5fac39
+      internalID: -1451858420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_39
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 243
+        width: 68
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c3991db0fa5440495823cb4817c9ea
+      internalID: 1615305104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 163
+        width: 69
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92564afa5bd97404b88f78f59da9e27a
+      internalID: -1982392714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_41
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 163
+        width: 68
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7d859bcc32940ad8a677273314a0bc
+      internalID: -311259086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_42
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 163
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1161f82380542ea9fe3c0068256546
+      internalID: -2092896244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_43
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 166
+        width: 57
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b289c88925d43f5874f06c8c9ac60a
+      internalID: 876750786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_44
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 166
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1bec90307394beabe8f8d9af8f91ff
+      internalID: 1849496454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_45
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 165
+        width: 52
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687ed477ef4524119a99d8d5c56c55b4
+      internalID: -968424487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_46
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 164
+        width: 51
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30232c9d020e345d98b90bbd124af705
+      internalID: -1850428021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_47
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 164
+        width: 50
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db6fcf1339f8410b8a25e8dc9934e06
+      internalID: 958739178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_48
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 164
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754f9eebe387a4276860977808bdc1b9
+      internalID: 475172075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_49
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 163
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df0045f531894ecfb119bc6f327f576
+      internalID: -1603107837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 83
+        width: 69
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7a1a73a9d454e9cb833aa713ebfe5c
+      internalID: 96599487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_51
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 83
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6b892a4f49d45e384314ecb26859c1
+      internalID: -1626701397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_52
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 87
+        width: 69
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61fe575609bc64bd3b2c563760dd61ca
+      internalID: -2031090873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 69
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb51230b4449f4e4080d7fbd95728966
+      internalID: -1571966806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_54
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 97
+        width: 68
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616635fc025534832884b08b13495cb4
+      internalID: 799623013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_55
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 95
+        width: 68
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fb3503b63f3419a9b574498c70cd7b
+      internalID: -151361361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_56
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 85
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf73462d73b3465c8034f29b3c399d5
+      internalID: -230592260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_57
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 81
+        width: 65
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893657eb2ca254ec484fb4138682134e
+      internalID: 534859606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 80
+        width: 65
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae77175e3153a4c5aa9da2e63d12e682
+      internalID: 1653161592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_59
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 81
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804a36ed07b0f4687891a01940315b62
+      internalID: -96845257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 69
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b564fd19954284669a8a61b0176ce44e
+      internalID: 1946599690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 3
+        width: 69
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6c416bc2fc2470cb292d04af311521
+      internalID: -1145576051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_62
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1
+        width: 68
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836785e086ad842069578e15e565a4ec
+      internalID: 1001775984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_63
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 0
+        width: 67
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26bc2b00c7a9d4e8ca9f24a279cb6b14
+      internalID: -615043731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_64
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 0
+        width: 66
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d555e3b4f2641e79c7bcb6fd309d67
+      internalID: 1819851796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_65
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 0
+        width: 65
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd79240996b5648c4850e185215ad3e9
+      internalID: 1085038188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_66
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 0
+        width: 66
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d214c31644d1e4cae81f465621a88814
+      internalID: -1285967255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_67
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 0
+        width: 67
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b23bf220ff7419192e1c6c0dff18af
+      internalID: 1015414336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_68
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1
+        width: 68
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3987f1411908f476091c9c36f375de12
+      internalID: 2075018649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeetleMuncher_69
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 3
+        width: 69
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39e85dc2afde423795438264f32e2cc
+      internalID: -1373960525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BeetleMuncher_0: 1725122079
+      BeetleMuncher_1: -1524529739
+      BeetleMuncher_10: 862120731
+      BeetleMuncher_11: -146730608
+      BeetleMuncher_12: -1393775461
+      BeetleMuncher_13: -1700132196
+      BeetleMuncher_14: -1409404174
+      BeetleMuncher_15: -334768915
+      BeetleMuncher_16: -52161846
+      BeetleMuncher_17: 13155239
+      BeetleMuncher_18: 1747835905
+      BeetleMuncher_19: -1404192259
+      BeetleMuncher_2: 1677951106
+      BeetleMuncher_20: -1269027030
+      BeetleMuncher_21: -1221036469
+      BeetleMuncher_22: -1692419960
+      BeetleMuncher_23: -735968151
+      BeetleMuncher_24: 1647107631
+      BeetleMuncher_25: 1787622780
+      BeetleMuncher_26: -543901662
+      BeetleMuncher_27: 48887792
+      BeetleMuncher_28: 1269860382
+      BeetleMuncher_29: 2082415816
+      BeetleMuncher_3: 1046977000
+      BeetleMuncher_30: -1220585312
+      BeetleMuncher_31: -1244471272
+      BeetleMuncher_32: 1816600967
+      BeetleMuncher_33: -203064077
+      BeetleMuncher_34: 2017846297
+      BeetleMuncher_35: -1242865098
+      BeetleMuncher_36: 1606641284
+      BeetleMuncher_37: -1686755122
+      BeetleMuncher_38: -1451858420
+      BeetleMuncher_39: 1615305104
+      BeetleMuncher_4: -1369825760
+      BeetleMuncher_40: -1982392714
+      BeetleMuncher_41: -311259086
+      BeetleMuncher_42: -2092896244
+      BeetleMuncher_43: 876750786
+      BeetleMuncher_44: 1849496454
+      BeetleMuncher_45: -968424487
+      BeetleMuncher_46: -1850428021
+      BeetleMuncher_47: 958739178
+      BeetleMuncher_48: 475172075
+      BeetleMuncher_49: -1603107837
+      BeetleMuncher_5: -2143694547
+      BeetleMuncher_50: 96599487
+      BeetleMuncher_51: -1626701397
+      BeetleMuncher_52: -2031090873
+      BeetleMuncher_53: -1571966806
+      BeetleMuncher_54: 799623013
+      BeetleMuncher_55: -151361361
+      BeetleMuncher_56: -230592260
+      BeetleMuncher_57: 534859606
+      BeetleMuncher_58: 1653161592
+      BeetleMuncher_59: -96845257
+      BeetleMuncher_6: 1419382353
+      BeetleMuncher_60: 1946599690
+      BeetleMuncher_61: -1145576051
+      BeetleMuncher_62: 1001775984
+      BeetleMuncher_63: -615043731
+      BeetleMuncher_64: 1819851796
+      BeetleMuncher_65: 1085038188
+      BeetleMuncher_66: -1285967255
+      BeetleMuncher_67: 1015414336
+      BeetleMuncher_68: 2075018649
+      BeetleMuncher_69: -1373960525
+      BeetleMuncher_7: -1568236184
+      BeetleMuncher_8: 806942500
+      BeetleMuncher_9: 81855812
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,66 @@
+<dependencies>
+  <packages>
+    <package>androidx.legacy:legacy-support-v4:1.0.0</package>
+    <package>androidx.recyclerview:recyclerview:1.2.1</package>
+    <package>com.android.installreferrer:installreferrer:2.1</package>
+    <package>com.applovin:applovin-sdk:11.10.1</package>
+    <package>com.appsflyer:adrevenue:6.9.1</package>
+    <package>com.appsflyer:af-android-sdk:6.9.4</package>
+    <package>com.appsflyer:unity-adrevenue-generic-wrapper:6.9.1</package>
+    <package>com.appsflyer:unity-wrapper:6.9.4</package>
+    <package>com.bigossp:bigo-ads:4.1.2</package>
+    <package>com.bigossp:ironsource-mediation:4.1.2.0</package>
+    <package>com.chartboost:chartboost-sdk:9.3.1</package>
+    <package>com.facebook.android:audience-network-sdk:6.16.0</package>
+    <package>com.fyber:marketplace-sdk:8.2.3</package>
+    <package>com.google.android.exoplayer:exoplayer:2.17.1</package>
+    <package>com.google.android.gms:play-services-ads:22.2.0</package>
+    <package>com.google.android.gms:play-services-ads-identifier:18.0.1</package>
+    <package>com.google.android.gms:play-services-basement:18.1.0</package>
+    <package>com.google.android.ump:user-messaging-platform:2.1.0</package>
+    <package>com.inmobi.monetization:inmobi-ads-kotlin:10.5.9</package>
+    <package>com.ironsource.adapters:admobadapter:4.3.39</package>
+    <package>com.ironsource.adapters:applovinadapter:4.3.39</package>
+    <package>com.ironsource.adapters:bidmachineadapter:4.3.2</package>
+    <package>com.ironsource.adapters:chartboostadapter:4.3.12</package>
+    <package>com.ironsource.adapters:facebookadapter:4.3.45</package>
+    <package>com.ironsource.adapters:fyberadapter:4.3.27</package>
+    <package>com.ironsource.adapters:inmobiadapter:4.3.19</package>
+    <package>com.ironsource.adapters:mintegraladapter:4.3.18</package>
+    <package>com.ironsource.adapters:mytargetadapter:4.1.17</package>
+    <package>com.ironsource.adapters:pangleadapter:4.3.22</package>
+    <package>com.ironsource.adapters:unityadsadapter:4.3.32</package>
+    <package>com.ironsource.adapters:vungleadapter:4.3.22</package>
+    <package>com.ironsource.sdk:mediationsdk:7.6.1</package>
+    <package>com.ironsource:adqualitysdk:7.14.3</package>
+    <package>com.mbridge.msdk.oversea:mbbanner:16.5.11</package>
+    <package>com.mbridge.msdk.oversea:mbbid:16.5.11</package>
+    <package>com.mbridge.msdk.oversea:newinterstitial:16.5.11</package>
+    <package>com.mbridge.msdk.oversea:reward:16.5.11</package>
+    <package>com.my.target:mytarget-sdk:5.16.5</package>
+    <package>com.pangle.global:ads-sdk:5.5.0.5</package>
+    <package>com.unity3d.ads:unity-ads:4.9.0</package>
+    <package>com.vungle:vungle-ads:7.0.0</package>
+    <package>com.yandex.ads.adapter:ironsource-mobileads:6.0.0.0</package>
+    <package>com.yandex.android:mobileads:6.0.0</package>
+    <package>io.bidmachine:ads:2.3.3</package>
+  </packages>
+  <files />
+  <settings>
+    <setting name="androidAbis" value="arm64-v8a,armeabi-v7a" />
+    <setting name="bundleId" value="com.htt.juan.shooter.fps.hn" />
+    <setting name="explodeAars" value="True" />
+    <setting name="gradleBuildEnabled" value="True" />
+    <setting name="gradlePropertiesTemplateEnabled" value="True" />
+    <setting name="gradleTemplateEnabled" value="True" />
+    <setting name="installAndroidPackages" value="True" />
+    <setting name="localMavenRepoDir" value="Assets/GeneratedLocalRepo" />
+    <setting name="packageDir" value="Assets/Plugins/Android" />
+    <setting name="patchAndroidManifest" value="True" />
+    <setting name="patchMainTemplateGradle" value="True" />
+    <setting name="projectExportEnabled" value="False" />
+    <setting name="useFullCustomMavenRepoPathWhenExport" value="True" />
+    <setting name="useFullCustomMavenRepoPathWhenNotExport" value="False" />
+    <setting name="useJetifier" value="True" />
+  </settings>
+</dependencies>

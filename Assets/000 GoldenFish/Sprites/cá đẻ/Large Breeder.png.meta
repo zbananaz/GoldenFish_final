@@ -1,0 +1,1675 @@
+fileFormatVersion: 2
+guid: d28744fba1be7434798d58e5c3588b74
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Large Breeder_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 483
+        width: 68
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cef8a7e8e82d465faa87b26f8a157c3
+      internalID: 2012994988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 483
+        width: 67
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9b81c3c5b164fe7b37a7b6a79f25a8
+      internalID: -1851505100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 483
+        width: 66
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972a82790a5324f61bd080a1df2f1bfb
+      internalID: 682499405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 483
+        width: 69
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4adb15fce974175b64945589047a2a
+      internalID: -77581554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 483
+        width: 73
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734688cb0c7154417959ed631087479b
+      internalID: -1898654407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_5
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 483
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f18b52ee1a2c4162bcad8f68f8eb067
+      internalID: -210149422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 483
+        width: 73
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1ad60d8c41c46c39e63167ad9567f9
+      internalID: -906401167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 483
+        width: 73
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f989fa81e35344cc9c7bf21605ef130
+      internalID: 1162522769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 483
+        width: 73
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef4044e4daad4a13a8625afd5454fd4
+      internalID: -1114393517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 483
+        width: 71
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810959f63f1da4f959f8f4ff7407bf29
+      internalID: -606902059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 403
+        width: 72
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1d49f3d3eda467abdbc80e1ee757fd
+      internalID: -1115701032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_11
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 403
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a143b6459d7b64c049155d2dd7f89e9a
+      internalID: -1034400862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_12
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 403
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3724b92662795415495e604d47937659
+      internalID: -678146975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_13
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 403
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea5f7c7901184b76a2d4a1f77c66782
+      internalID: -984329696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_14
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 404
+        width: 53
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58972b248fac444a4bf8d5369eea7305
+      internalID: -635226252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_15
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 404
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42de3f763b2f74408ae0556c83e90742
+      internalID: -1878915505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_16
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 404
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e408980dead4a4b9680059df1afd8f4a
+      internalID: -1187499705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_17
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 403
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b226c92b1eef4367b9364c88dc2b56f
+      internalID: -90804663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_18
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 403
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a3d23ec6f9d463899c0357f162c12d
+      internalID: -1327339611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_19
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 403
+        width: 69
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e0d095243e0413a9cb32dc74655074
+      internalID: 591981649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 323
+        width: 72
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065e04a479aa64c3c8637068c52d3a45
+      internalID: -918179449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 323
+        width: 72
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50209bc7abae4a00a15278fcc3c7826
+      internalID: 1329160485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_22
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 324
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a04f40834078405ba6d7abe4045ab2c
+      internalID: 1576292350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_23
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 324
+        width: 75
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23943c8e8affd4e5c824fdac0fefe5d7
+      internalID: -1991759794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_24
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 325
+        width: 76
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65b2e9787d364c4391fe6545bd860bf
+      internalID: 1132636397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_25
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 325
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db7840beabcf4bccb6fe0d59ea9e65c
+      internalID: 996427678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_26
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 325
+        width: 76
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1902bfd0d4f694cd09144f31b2550477
+      internalID: 1361233387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_27
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 324
+        width: 75
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3d0fa9676eb4b4b89394e9f2168e86
+      internalID: 360077643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_28
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 324
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd9f16f8a7c24ee2a1693ba12c11dfb
+      internalID: 623828698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_29
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 323
+        width: 72
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0daa3316b04f4cc58e88f1b12a6e948
+      internalID: 1712434885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_30
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 241
+        width: 68
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b11ad5976af74cf793fc7713744de4a
+      internalID: -230743672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_31
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 241
+        width: 67
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c50b965635324ca484f75a2ad509885
+      internalID: 819716127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_32
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 241
+        width: 66
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3cf63530d6fc4964b4503bc75dfb34f
+      internalID: 1137063393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_33
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 241
+        width: 69
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce5d4b6f14714305822b3c361797aad
+      internalID: -41017789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_34
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 241
+        width: 73
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b5d109987794f35853da1624ff1593
+      internalID: 2031310348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_35
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 241
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb8e37402d9045d281d5cb6d0d77a7c
+      internalID: -1345054851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_36
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 241
+        width: 73
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b83941a75aea41b29d937f90de47e9b
+      internalID: -731823667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_37
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 241
+        width: 73
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f43d03984a5d4cdcac76fcd8ed315b1
+      internalID: 2073762215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_38
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 241
+        width: 73
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2ba85074dc64efe8057e990d46124f
+      internalID: 1209365229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_39
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 241
+        width: 71
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b487112718c42bfaf5c481704832a8
+      internalID: 1295201478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_40
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 161
+        width: 72
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123ada2c56ce540f79b746f005be49c6
+      internalID: -1365297949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_41
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 161
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869edf053f7c546a6a0849c84585de07
+      internalID: -1225996207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_42
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 161
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc39fc694e0d47e28ce165a10c64cfd
+      internalID: 616252217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_43
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 161
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14881d0ac8dca45c3855b4234070a2ee
+      internalID: -1788916750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_44
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 162
+        width: 53
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43bab5518f0a4f1fa5d28d3fd5a8a14
+      internalID: 944859492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_45
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 162
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8d844be39c045dda5e0c6abb122b19
+      internalID: 382766627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_46
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 162
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6a7461eff4b41109e32a21911f81bc
+      internalID: -1794365954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_47
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 161
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc197feb095884b738700117eb25d643
+      internalID: 905198928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_48
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 161
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ffc85283369444c6a0afb7b3362c88e
+      internalID: 1092520340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_49
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 161
+        width: 69
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6782204bdc543481793f3349525aa6f7
+      internalID: 919026341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_50
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 81
+        width: 73
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a4a00c432044f64829e079bb93c223
+      internalID: 1580061456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_51
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 83
+        width: 75
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85744592499d4ef8b889d0c0eb48e2a
+      internalID: -1393866618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_52
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 85
+        width: 76
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d06f54a42ba4cd88549274f9f6e9e9
+      internalID: 1766306255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_53
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 84
+        width: 77
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a37f6356b054d528c0762531d14fc8
+      internalID: -638641330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_54
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 86
+        width: 77
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478bf6fc66dc840eab2299fd5602e1ad
+      internalID: 166134469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_55
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 86
+        width: 77
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706a16f7742d644f98d860da9f74817d
+      internalID: 1565877592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_56
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 81
+        width: 76
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15d139ef2242472a97887196926e2b1
+      internalID: -1682933931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_57
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 80
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e881db70a2d4c2f8af993002db87c7
+      internalID: -2096978944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_58
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 79
+        width: 73
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f171d80911a41b792918189445cca1
+      internalID: -74308993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_59
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 79
+        width: 73
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1339894a91d804f299e0305e12619f27
+      internalID: -413900792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_60
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 72
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1caf2685b004f92b08dee2bae2131f
+      internalID: 1454576890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_61
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 0
+        width: 72
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c149dac85ebe402783fcc44b90976fc
+      internalID: 2039895547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_62
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d5b5b69965c4072b19de54613b49eb
+      internalID: 1574821696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_63
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1
+        width: 75
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea98f5b0611d45cf8b72347761bdf23
+      internalID: 1145134600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_64
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 2
+        width: 76
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f99db078b1494bf7bdba28a10c36ed6
+      internalID: -1694803323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_65
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 2
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb31dcd064dfe420895336516df268d0
+      internalID: -770107058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_66
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 2
+        width: 76
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe52e2528f3848c1a62119c87f418c6
+      internalID: -1717486637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_67
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1
+        width: 75
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ceda03d844ef4c7189253b7ca08f19e
+      internalID: -250748692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_68
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d35d66f5965a4f73a61cce9ffa74b4a
+      internalID: -1191481639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Breeder_69
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 0
+        width: 72
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d0bf3837e0841cc94102e6b97a81d2
+      internalID: -911224557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Large Breeder_0: 2012994988
+      Large Breeder_1: -1851505100
+      Large Breeder_10: -1115701032
+      Large Breeder_11: -1034400862
+      Large Breeder_12: -678146975
+      Large Breeder_13: -984329696
+      Large Breeder_14: -635226252
+      Large Breeder_15: -1878915505
+      Large Breeder_16: -1187499705
+      Large Breeder_17: -90804663
+      Large Breeder_18: -1327339611
+      Large Breeder_19: 591981649
+      Large Breeder_2: 682499405
+      Large Breeder_20: -918179449
+      Large Breeder_21: 1329160485
+      Large Breeder_22: 1576292350
+      Large Breeder_23: -1991759794
+      Large Breeder_24: 1132636397
+      Large Breeder_25: 996427678
+      Large Breeder_26: 1361233387
+      Large Breeder_27: 360077643
+      Large Breeder_28: 623828698
+      Large Breeder_29: 1712434885
+      Large Breeder_3: -77581554
+      Large Breeder_30: -230743672
+      Large Breeder_31: 819716127
+      Large Breeder_32: 1137063393
+      Large Breeder_33: -41017789
+      Large Breeder_34: 2031310348
+      Large Breeder_35: -1345054851
+      Large Breeder_36: -731823667
+      Large Breeder_37: 2073762215
+      Large Breeder_38: 1209365229
+      Large Breeder_39: 1295201478
+      Large Breeder_4: -1898654407
+      Large Breeder_40: -1365297949
+      Large Breeder_41: -1225996207
+      Large Breeder_42: 616252217
+      Large Breeder_43: -1788916750
+      Large Breeder_44: 944859492
+      Large Breeder_45: 382766627
+      Large Breeder_46: -1794365954
+      Large Breeder_47: 905198928
+      Large Breeder_48: 1092520340
+      Large Breeder_49: 919026341
+      Large Breeder_5: -210149422
+      Large Breeder_50: 1580061456
+      Large Breeder_51: -1393866618
+      Large Breeder_52: 1766306255
+      Large Breeder_53: -638641330
+      Large Breeder_54: 166134469
+      Large Breeder_55: 1565877592
+      Large Breeder_56: -1682933931
+      Large Breeder_57: -2096978944
+      Large Breeder_58: -74308993
+      Large Breeder_59: -413900792
+      Large Breeder_6: -906401167
+      Large Breeder_60: 1454576890
+      Large Breeder_61: 2039895547
+      Large Breeder_62: 1574821696
+      Large Breeder_63: 1145134600
+      Large Breeder_64: -1694803323
+      Large Breeder_65: -770107058
+      Large Breeder_66: -1717486637
+      Large Breeder_67: -250748692
+      Large Breeder_68: -1191481639
+      Large Breeder_69: -911224557
+      Large Breeder_7: 1162522769
+      Large Breeder_8: -1114393517
+      Large Breeder_9: -606902059
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

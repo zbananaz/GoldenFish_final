@@ -1,0 +1,1235 @@
+fileFormatVersion: 2
+guid: ad8ac05230cc742a083253610006621b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GuppyCruncher_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 321
+        width: 63
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e411a0d3a1d4d5190767a6cbfe57a6
+      internalID: 332856416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuppyCruncher_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 321
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b899e9ac148b9433689f7fdc851f97b7
+      internalID: -449763480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuppyCruncher_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 321
+        width: 63
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887478305bd3045d59fd98d16213772e
+      internalID: 385764506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuppyCruncher_3
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 321
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08d873417a2b44279e7c1aaa60556b7
+      internalID: 898647594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuppyCruncher_4
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 322
+        width: 58
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f010985059804716ab4e2ff1ecb2760
+      internalID: 1412994671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuppyCruncher_5
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 322
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7be03a808ad348d6a38269c1b082d12
+      internalID: -231810813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuppyCruncher_6
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 322
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1c9880f482e4da88c3777f6a868dbc
+      internalID: -48669120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuppyCruncher_7
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 322
+        width: 55
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8818f5c031b8847d09d2e33d2426b228
+      internalID: -1463959263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuppyCruncher_8
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 321
+        width: 57
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e7b787e3e3f493d9fd9fc1baf02cc0
+      internalID: -1258208974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuppyCruncher_9
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 321
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0962cc2937e5247c0aa42ade0c4d2c25
+      internalID: -384895493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuppyCruncher_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 243
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb7caa41bd2545869d4ef37f2899bd4
+      internalID: 1444382270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuppyCruncher_11
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 243
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e14934ca0edd47589587ebcf9324a65
+      internalID: 1389536080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuppyCruncher_12
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 243
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd06222c942b4a8f900af015ecd911f
+      internalID: -490382110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuppyCruncher_13
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 241
+        width: 56
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f7b02fac16e4a5a8ce45ab8f1b656f
+      internalID: 1231304281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuppyCruncher_14
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 240
+        width: 60
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d10145f16bba42e9870099360945373
+      internalID: -535962745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuppyCruncher_15
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 240
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2a7726cb76946559075c82ad22a5a1
+      internalID: -785729148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuppyCruncher_16
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 240
+        width: 58
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd9186c3410e45b7b8953e26c9de84c
+      internalID: -476431529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuppyCruncher_17
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 240
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6739f2f8307cb44c795a5aa46e82849c
+      internalID: 600304272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuppyCruncher_18
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 240
+        width: 52
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eba8d46797e345c1985ed3ad7c6dfc6
+      internalID: 419696052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuppyCruncher_19
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 241
+        width: 62
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca420dacdbe0f4569983d53dced0b545
+      internalID: -224577048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuppyCruncher_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 161
+        width: 63
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4bb3d95eec04451fbab178389f28ae7
+      internalID: -644085079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuppyCruncher_21
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 161
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed2b752fce7048509e7765753768de1
+      internalID: -817825684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuppyCruncher_22
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 161
+        width: 63
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b038b6d835074923b744b68e6037824
+      internalID: 781763517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuppyCruncher_23
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 161
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9cbcbd8b25645089520de540533a94
+      internalID: -700419467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuppyCruncher_24
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 162
+        width: 58
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9189221d5582f43f3bacf1f5d3ba7850
+      internalID: 1448681530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuppyCruncher_25
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 162
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7601660fe181c4e6a9ad6c451fd92fc5
+      internalID: -339717298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuppyCruncher_26
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 162
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a14b7d75e36443d9224bd2e0ca73bd
+      internalID: 1588391536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuppyCruncher_27
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 162
+        width: 55
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b377234f06bd44b79d97546609ceb4e
+      internalID: -399739048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuppyCruncher_28
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 161
+        width: 57
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ecaf9e6607ca40d7aa152b385878dd7
+      internalID: 1628340549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuppyCruncher_29
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 161
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05203998d169840b2b685972219b1b4d
+      internalID: -490216627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuppyCruncher_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 83
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6acbc0ffa3651496fb2e0fc886dd9423
+      internalID: 1883582807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuppyCruncher_31
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 83
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010198c18dcd14ea79b821457820382d
+      internalID: -1484781324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuppyCruncher_32
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 84
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc2f937cc48d40a4aee4286c8f78aa1
+      internalID: 555851308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuppyCruncher_33
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 85
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30db06da316f64f549779849c8a4e753
+      internalID: 72451964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuppyCruncher_34
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 87
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76452acabf4644c599048029298e4887
+      internalID: -377692649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuppyCruncher_35
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 87
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615081e97dc6f43da86514f405f87a2c
+      internalID: -173436189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuppyCruncher_36
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 87
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436b2d9bdc85f4fa6842ddb6e03097f5
+      internalID: 439736249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuppyCruncher_37
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 87
+        width: 64
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f96e3c95b6bb4ed8998275cfb0c7981
+      internalID: -1269680743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuppyCruncher_38
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 87
+        width: 64
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5735d3d3523d04b68878a8290970ef50
+      internalID: -1572814388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuppyCruncher_39
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 87
+        width: 64
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9703656199f4101b22340554ee1998
+      internalID: -1843583914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuppyCruncher_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672bee104d2c046f899cb96ee65e7303
+      internalID: 1308520220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuppyCruncher_41
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 3
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895b79c9dbee34ab9a47ba01bef6eea1
+      internalID: 2085547427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuppyCruncher_42
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 3
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d285921416cd475cb6a55d6a4fefc4f
+      internalID: 1984465698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuppyCruncher_43
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1
+        width: 56
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054848c634f0f4433aa3fdcd18994f2b
+      internalID: 1277005189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuppyCruncher_44
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 0
+        width: 60
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafecf87a0ed6428597eb4b48b01865d
+      internalID: 305405660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuppyCruncher_45
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 0
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d055b82258145f88f3d33b06e6bb35
+      internalID: 784417549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuppyCruncher_46
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 0
+        width: 58
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b00a0d3c55f41df94afcc9c0d96bc6
+      internalID: -1925356872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuppyCruncher_47
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 0
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd64032db33942ffbb764f9d0d890c9
+      internalID: 952184738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuppyCruncher_48
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 0
+        width: 52
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866a3c63018af4dc78520722e910b7a6
+      internalID: -2072708883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuppyCruncher_49
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1
+        width: 62
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635f8d98457e4440abbd5a41e09f1edd
+      internalID: -2049207434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GuppyCruncher_0: 332856416
+      GuppyCruncher_1: -449763480
+      GuppyCruncher_10: 1444382270
+      GuppyCruncher_11: 1389536080
+      GuppyCruncher_12: -490382110
+      GuppyCruncher_13: 1231304281
+      GuppyCruncher_14: -535962745
+      GuppyCruncher_15: -785729148
+      GuppyCruncher_16: -476431529
+      GuppyCruncher_17: 600304272
+      GuppyCruncher_18: 419696052
+      GuppyCruncher_19: -224577048
+      GuppyCruncher_2: 385764506
+      GuppyCruncher_20: -644085079
+      GuppyCruncher_21: -817825684
+      GuppyCruncher_22: 781763517
+      GuppyCruncher_23: -700419467
+      GuppyCruncher_24: 1448681530
+      GuppyCruncher_25: -339717298
+      GuppyCruncher_26: 1588391536
+      GuppyCruncher_27: -399739048
+      GuppyCruncher_28: 1628340549
+      GuppyCruncher_29: -490216627
+      GuppyCruncher_3: 898647594
+      GuppyCruncher_30: 1883582807
+      GuppyCruncher_31: -1484781324
+      GuppyCruncher_32: 555851308
+      GuppyCruncher_33: 72451964
+      GuppyCruncher_34: -377692649
+      GuppyCruncher_35: -173436189
+      GuppyCruncher_36: 439736249
+      GuppyCruncher_37: -1269680743
+      GuppyCruncher_38: -1572814388
+      GuppyCruncher_39: -1843583914
+      GuppyCruncher_4: 1412994671
+      GuppyCruncher_40: 1308520220
+      GuppyCruncher_41: 2085547427
+      GuppyCruncher_42: 1984465698
+      GuppyCruncher_43: 1277005189
+      GuppyCruncher_44: 305405660
+      GuppyCruncher_45: 784417549
+      GuppyCruncher_46: -1925356872
+      GuppyCruncher_47: 952184738
+      GuppyCruncher_48: -2072708883
+      GuppyCruncher_49: -2049207434
+      GuppyCruncher_5: -231810813
+      GuppyCruncher_6: -48669120
+      GuppyCruncher_7: -1463959263
+      GuppyCruncher_8: -1258208974
+      GuppyCruncher_9: -384895493
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

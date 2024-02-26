@@ -1,0 +1,1675 @@
+fileFormatVersion: 2
+guid: 13ed25946eed24ba79e72ae10a8ec376
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: King Guppy_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 512
+        width: 67
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2859d1f5bf76492590eb7960c013bc0
+      internalID: 1419158031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 513
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d61e1299b8504ad594f56736f9ed1be
+      internalID: 1708720197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 513
+        width: 69
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76929e36742094ff282a47e1cb95454c
+      internalID: -1895661750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_3
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 513
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172b90c8cccb2407c83a91d18502c6bf
+      internalID: 1624800421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_4
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 514
+        width: 69
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab229dc08d1b44a2f897e6fc93cc4400
+      internalID: 1243399408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_5
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 514
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a529a351766e401ca8815ae0e6e016e
+      internalID: -1479738016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_6
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 514
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9e97c4eaa3c47c3b7b0665497963d8
+      internalID: -1825273526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_7
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 513
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cef2a8a97a4c4a65989e2ae1a53b52c
+      internalID: -1975820524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_8
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 513
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6312d271afc4b1396b720729cf5c78
+      internalID: 1486720284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_9
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 513
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ba5095755a94a02827eed55a623dad
+      internalID: -767990196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 424
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1170d318e6d4668adddce0a2648d27
+      internalID: -1031354524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 424
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7367c9e8b9e6247beb3b26cc03baf2c4
+      internalID: 534258790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 424
+        width: 73
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3dbc1752f3ca4b21912c84f3ea3c52f
+      internalID: 755413381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_13
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 425
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c2253c9c234448abe6c862cc7c8721
+      internalID: 1943015019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_14
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 426
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43ccc7eba86147e3a449162eae12e97
+      internalID: 767355046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_15
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 425
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130193f416a1a4fbea634110dca8b9af
+      internalID: 1340179607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_16
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 423
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aabc41544c6b24b35b3ecc786f4604bb
+      internalID: 1215172009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_17
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 423
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e23861ab4074bb49d728b66dc8649a
+      internalID: -1206989318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_18
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 423
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0874e173e9c4216b4ff01eea3d0419
+      internalID: -1952148418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_19
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 424
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53cb23a733d2a4945808720866c759d3
+      internalID: -276433675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 332
+        width: 74
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488a806095d3d4c3fb5bb0dd23a6873f
+      internalID: 411138700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_21
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 332
+        width: 74
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a7eab6a6ce04a59a0d7739223a96df
+      internalID: -1157181317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_22
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 331
+        width: 72
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768ccf86a656840e88f5a17bd4343542
+      internalID: 1725650780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_23
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 331
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce70df40b5b2d44b6a9d2102cc571faa
+      internalID: 1973278197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_24
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 331
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee379457eed58448ea2dbf0f85f09c58
+      internalID: 1643525606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_25
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 331
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2babc08625814bc2b069808ec6b8b97
+      internalID: -1592579181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_26
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 331
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5784c89769bc4a4d895c6f46e2f863f
+      internalID: 1201527366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_27
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 331
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfebb961850e1447fb52b971327544d8
+      internalID: 1830363305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_28
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 331
+        width: 72
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c642b2d707e824c3193fcc953fd60d29
+      internalID: -780064294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_29
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 332
+        width: 74
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9094ebc668e94a0d8a2bbb147506941
+      internalID: -1125293198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_30
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 250
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65542bd8aa00a4793977cab43c4b89d1
+      internalID: 1559463624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_31
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 250
+        width: 74
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568a65e3114c34a8cacfd453301ca6a9
+      internalID: 1044147119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_32
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 249
+        width: 76
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba43f6d132cb4157ac0354438ad695d
+      internalID: 1331945339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_33
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 252
+        width: 78
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc7d2ad89d694c83a562ad4c8adc52c
+      internalID: -1121488806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_34
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 260
+        width: 78
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a29f93e37596475a8c75bd675ae076b
+      internalID: 562285741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_35
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 270
+        width: 77
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0c57297c63e433dbb8d39ce3dd7617
+      internalID: 1393965137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_36
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 261
+        width: 78
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b40502697d13446bb6285807658feae
+      internalID: 1514702382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_37
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 255
+        width: 76
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a37b935c1e145298fbcf0636a981b5
+      internalID: 374946290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_38
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 253
+        width: 74
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b863901cb15ee4c4084992588367560d
+      internalID: -549133044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_39
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 253
+        width: 74
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b973582c183aa4f7f9d53df3b1c19203
+      internalID: 1052812702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_40
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 166
+        width: 67
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c914940809848cf8a77f8b6053e6d0
+      internalID: 314810519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_41
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 167
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be68c9ad49fb4118aebff63f4858c24
+      internalID: -1230911428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_42
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 167
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831b2196aea95404aa6aecbf6ed2258c
+      internalID: 1856120902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_43
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 167
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb431b8fcf4324c24ae817c29d4f5fbf
+      internalID: -117231001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_44
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 168
+        width: 69
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8de36d72ecef4f498b3e191bac80404
+      internalID: 440200328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_45
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 168
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1bf6bf6bf0e4da491428802124dda8
+      internalID: -490792089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_46
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 168
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1a3715142974558bee211f771ba8c1
+      internalID: 1417973239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_47
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 167
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b46965b2a8640b98b462658a3cd5d7
+      internalID: 408900756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_48
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 167
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7087d684bb56d4308a3561d480b74b0b
+      internalID: -735756128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_49
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 167
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f142ed26b4f49babfbfa5e38686674
+      internalID: -2081914541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_50
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 85
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe0b5d3d5c5b4a5c8dee0c8c6e7ada9
+      internalID: -671726786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_51
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 85
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfdca72e0c46499fb54a2e491bb02d3
+      internalID: 1109890913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_52
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 84
+        width: 72
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629da6d901dd54d8086984b23682cead
+      internalID: 2112948045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_53
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 84
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67914fe6c62fd463d8d6686222e67a93
+      internalID: 1314600473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_54
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 84
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb6c4e6b2bfc4180bfaadce43fdc763
+      internalID: -1642701040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_55
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 84
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41ccaf5c02d6445cb2c6d056070bff1
+      internalID: -714812614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_56
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 84
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705dffa56eaf94be08c230f38ce3b237
+      internalID: 878616333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_57
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 84
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98b7b194bbb5406f813e107533e7af4
+      internalID: -161356648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_58
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 84
+        width: 72
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e2f6932bdc94738af48f222c8ad563
+      internalID: 759266439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_59
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 85
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38f0e0c3a3d84e78a5680967dab3548
+      internalID: -488093672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_60
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a544a7b26124a93b83e3d719b2edf8
+      internalID: -671053059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_61
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17957d446939d4828892418c288d38bb
+      internalID: -2137418887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_62
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1
+        width: 73
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec1ddda06f844a8ebd401185c450a56
+      internalID: -1392386968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_63
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 2
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80adf5af7505f46e18aed589a401a83f
+      internalID: 1928951488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_64
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 3
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cc8778b38b44447a174546fe80bd99
+      internalID: 932837691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_65
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 2
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d10b27fdd19431c9bc7f93811b72d4
+      internalID: 597167374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_66
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 0
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67cbc1386269344479fdd0be4c81f180
+      internalID: 440765927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_67
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 0
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6ae2f64a4534904800676b2bed187b
+      internalID: 1058407253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_68
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 0
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c66ebaa114b42c2bec7b821e003653
+      internalID: 143099540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King Guppy_69
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 1
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba203772185b4f67bb24f1e702a8331
+      internalID: 534241010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      King Guppy_0: 1419158031
+      King Guppy_1: 1708720197
+      King Guppy_10: -1031354524
+      King Guppy_11: 534258790
+      King Guppy_12: 755413381
+      King Guppy_13: 1943015019
+      King Guppy_14: 767355046
+      King Guppy_15: 1340179607
+      King Guppy_16: 1215172009
+      King Guppy_17: -1206989318
+      King Guppy_18: -1952148418
+      King Guppy_19: -276433675
+      King Guppy_2: -1895661750
+      King Guppy_20: 411138700
+      King Guppy_21: -1157181317
+      King Guppy_22: 1725650780
+      King Guppy_23: 1973278197
+      King Guppy_24: 1643525606
+      King Guppy_25: -1592579181
+      King Guppy_26: 1201527366
+      King Guppy_27: 1830363305
+      King Guppy_28: -780064294
+      King Guppy_29: -1125293198
+      King Guppy_3: 1624800421
+      King Guppy_30: 1559463624
+      King Guppy_31: 1044147119
+      King Guppy_32: 1331945339
+      King Guppy_33: -1121488806
+      King Guppy_34: 562285741
+      King Guppy_35: 1393965137
+      King Guppy_36: 1514702382
+      King Guppy_37: 374946290
+      King Guppy_38: -549133044
+      King Guppy_39: 1052812702
+      King Guppy_4: 1243399408
+      King Guppy_40: 314810519
+      King Guppy_41: -1230911428
+      King Guppy_42: 1856120902
+      King Guppy_43: -117231001
+      King Guppy_44: 440200328
+      King Guppy_45: -490792089
+      King Guppy_46: 1417973239
+      King Guppy_47: 408900756
+      King Guppy_48: -735756128
+      King Guppy_49: -2081914541
+      King Guppy_5: -1479738016
+      King Guppy_50: -671726786
+      King Guppy_51: 1109890913
+      King Guppy_52: 2112948045
+      King Guppy_53: 1314600473
+      King Guppy_54: -1642701040
+      King Guppy_55: -714812614
+      King Guppy_56: 878616333
+      King Guppy_57: -161356648
+      King Guppy_58: 759266439
+      King Guppy_59: -488093672
+      King Guppy_6: -1825273526
+      King Guppy_60: -671053059
+      King Guppy_61: -2137418887
+      King Guppy_62: -1392386968
+      King Guppy_63: 1928951488
+      King Guppy_64: 932837691
+      King Guppy_65: 597167374
+      King Guppy_66: 440765927
+      King Guppy_67: 1058407253
+      King Guppy_68: 143099540
+      King Guppy_69: 534241010
+      King Guppy_7: -1975820524
+      King Guppy_8: 1486720284
+      King Guppy_9: -767990196
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

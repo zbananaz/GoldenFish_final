@@ -1,0 +1,33 @@
+Butterflyfish.png
+size:512,256
+filter:Linear,Linear
+pma:true
+Duoi
+bounds:246,145,74,83
+offsets:1,1,76,85
+Layer 6
+bounds:322,164,50,64
+offsets:1,1,52,66
+Layer 7
+bounds:246,71,58,72
+offsets:1,1,60,74
+Layer 9
+bounds:246,7,62,48
+offsets:0,0,62,49
+rotate:90
+Than
+bounds:2,2,242,226
+offsets:0,0,270,226
+Vay 1
+bounds:374,186,42,67
+offsets:1,1,45,69
+rotate:90
+Vay 2
+bounds:443,180,48,60
+offsets:1,1,51,62
+rotate:90
+mieng duoi
+bounds:374,146,55,38
+offsets:0,1,55,39
+mieng tren
+bounds:431,137,51,41

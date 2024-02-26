@@ -1,0 +1,1675 @@
+fileFormatVersion: 2
+guid: 5ff73559762074c348f59769d2936d38
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Large Guppy_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 496
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d133993178bb4401bf5695a452326e2
+      internalID: 920722259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 497
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7933ed472694444a36ff3ae537e96b
+      internalID: 46130029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 497
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f8d8d68dd3a487b94fbf1857d9086e
+      internalID: -657510845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_3
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 497
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a408fcf57e0354eb98e01db73aa55471
+      internalID: 1369651819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_4
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 498
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8471d41b0d404732b58caef07ef8813
+      internalID: 516223550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_5
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 498
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f09aa0391e234030bc473e502dcfd28
+      internalID: 1407462702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_6
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 498
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7be3a47c66d84813bef376f809d8dfb
+      internalID: -2127292551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_7
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 497
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc54d9ff598d48428dc1edf3543d752
+      internalID: 2110737412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_8
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 497
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de09b665d92754d3383220d073f6e5ba
+      internalID: -926683284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_9
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 497
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3827ac2b584466f82cdaa34b5ac4cd
+      internalID: 1258940463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 414
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49995830c993e40d78e7d329f576afca
+      internalID: 399557996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 414
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90fe700d7157436baa50c319103898f
+      internalID: 313159217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_12
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 414
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a77f1fbc0c6142c1a877eb838cdba52
+      internalID: -1574981370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_13
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 415
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6299d7a3386584f8fadea5053711e0cd
+      internalID: -2004211427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_14
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 416
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5dc6d298f1a4a968c9efa09ab4da3a
+      internalID: -374590900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_15
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 415
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6126f2107f8fc473ca5fbf67069ab188
+      internalID: 1047544645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_16
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 413
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df6877318ede45dc841e3e9d483a294
+      internalID: 391599789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_17
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 413
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14fa5a77cdfdb4d849cbc973bf5ee5cf
+      internalID: -980113330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_18
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 413
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d429a0ea689994c85b9a3b8329585a0b
+      internalID: 354741388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_19
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 414
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0adbc0869d37e47dba47ce8c7fff2440
+      internalID: 659602369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 327
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d57a56eb38a440ee860286e108dad06
+      internalID: 1338341355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_21
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 327
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee6f541177ff4e988e0e0c1ecbd991a
+      internalID: 830318964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_22
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 326
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a9e4c64239543d893f0146abccc819
+      internalID: 447292311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_23
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 326
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4375daf59b18e442f851fa77fcea2d53
+      internalID: -1700795599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_24
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 326
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68cb7f63869934ac8b1011a0ee14f5e1
+      internalID: 1928600624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_25
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 326
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51429e261dd7475284fe43e6bcd6f0d
+      internalID: -1134319727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_26
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 326
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081ed122858d8421db4f17fda6299789
+      internalID: 765309547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_27
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 326
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c52e1da43a584c578f141ffb3950cb6
+      internalID: -366403866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_28
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 326
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a01d07a79f6449838de6b7abacc77a6
+      internalID: 2005225157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_29
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 327
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4954fd83f66f84ba1a6a4ef24e927e5a
+      internalID: 458963090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 247
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e978f64df6d4e13a3a388129848b7b
+      internalID: 1204337160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_31
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 247
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a24cfcd9e5d4fc7b56bbc9a5829f44
+      internalID: -1790777766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_32
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 246
+        width: 73
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9816711f7d6f943ee91619d53d37da4c
+      internalID: -1697084793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_33
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 249
+        width: 74
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd03c03a8960f4a93b22a52fd41efd9c
+      internalID: 980153163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_34
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 257
+        width: 74
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e721248d4bfb543ef8632311ffaa25de
+      internalID: 1126585502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_35
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 267
+        width: 73
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a3886e44e6e4fadb69d213525b5e75
+      internalID: 1975067694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_36
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 261
+        width: 74
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8008a047b9a1343e489e5dc7482d1d50
+      internalID: 1450291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_37
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 253
+        width: 73
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be44a53d34844ca887baf6fd58bd0f1
+      internalID: 1284311860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_38
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 250
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c30d1b7f3bb4239990270ae039bf31
+      internalID: 1990984429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_39
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 250
+        width: 72
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e488999229c4ddba71a6540a7b0723
+      internalID: 1053874430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_40
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 167
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed11da24134ef43ae8a88c9cd67b309e
+      internalID: 1685679532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_41
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 168
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcae7867c838d445a8671ed1b17f1e4c
+      internalID: -1770049006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_42
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 168
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab09f58d83efe4158b68fd612f0f663d
+      internalID: 2127356864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_43
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 168
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae85016e56a7c4b2bb43c3cdd8f752ec
+      internalID: 2094402541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_44
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 169
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd0bfe0b6deb4a859ee85ef13dfa91c
+      internalID: 1132592417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_45
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 169
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb67938baf6cd4562a9aebf0438553e0
+      internalID: 891525762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_46
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 169
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff61eeb666a049f48258e4f435b95ec
+      internalID: 1722120910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_47
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 168
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62c96dfc6b344d828886c064bf82054
+      internalID: -942993933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_48
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 168
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8212a3ac8408c43f8a86ec2b5cb13be7
+      internalID: 827834893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_49
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 168
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef086d7c688f0482080b71e53724f927
+      internalID: -370424941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_50
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 87
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c929641dd815470eb981c17e1be0d72
+      internalID: -114527893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_51
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 87
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e60cc6f67da49668f800e37ffc19bd
+      internalID: 1423403343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_52
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 86
+        width: 71
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774bfbc7d750544f29c1269f01af7b29
+      internalID: 965544428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_53
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 86
+        width: 70
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d74026a798349eb801b0a0024dd94b
+      internalID: 1462779258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_54
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 86
+        width: 70
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1bdcdad805084f74a73099c1b616720
+      internalID: 1363297396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_55
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 86
+        width: 70
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e931110ce9ed41799ff5ce989323fe3
+      internalID: 1181797844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_56
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 86
+        width: 70
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a4d26263c3340008d7054a2cb8d91f
+      internalID: 1245223593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_57
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 86
+        width: 70
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3c763db83204bbd99de8f36f44bf2f
+      internalID: -908444040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_58
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 86
+        width: 71
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526786076c41a45f8a5fc2e48957ec45
+      internalID: -1076463313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_59
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 87
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361229636ac5e49b29c7130277aac1cc
+      internalID: 561735492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc298e7fb52f48858aac639aab1580a
+      internalID: 632569241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e20f24cf86f4016b9952fc498e96f2
+      internalID: -269412024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_62
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff837ff8a4bf443cbec28f9dd0846af
+      internalID: 1068213580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_63
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 2
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8c2db2bab814e6a91980d3092d0fa5
+      internalID: -1379384723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_64
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 3
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9daac8a65c0ba4791b0ad1dfb3c54cb3
+      internalID: 182399622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_65
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 2
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a782a6e54d6454cbcd48b538fa59a8
+      internalID: -1911389563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_66
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 0
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1e3d915f37d44fdb7886b309795f98
+      internalID: 1364055265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_67
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 0
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea80a0cc785e4d2893ee68581aebce8
+      internalID: 505468680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_68
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 0
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5abc335add7c4083966e64a300fdd56
+      internalID: 1743457802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large Guppy_69
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537decf9e75a04de993e4fe79371bf75
+      internalID: -1221668245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Large Guppy_0: 920722259
+      Large Guppy_1: 46130029
+      Large Guppy_10: 399557996
+      Large Guppy_11: 313159217
+      Large Guppy_12: -1574981370
+      Large Guppy_13: -2004211427
+      Large Guppy_14: -374590900
+      Large Guppy_15: 1047544645
+      Large Guppy_16: 391599789
+      Large Guppy_17: -980113330
+      Large Guppy_18: 354741388
+      Large Guppy_19: 659602369
+      Large Guppy_2: -657510845
+      Large Guppy_20: 1338341355
+      Large Guppy_21: 830318964
+      Large Guppy_22: 447292311
+      Large Guppy_23: -1700795599
+      Large Guppy_24: 1928600624
+      Large Guppy_25: -1134319727
+      Large Guppy_26: 765309547
+      Large Guppy_27: -366403866
+      Large Guppy_28: 2005225157
+      Large Guppy_29: 458963090
+      Large Guppy_3: 1369651819
+      Large Guppy_30: 1204337160
+      Large Guppy_31: -1790777766
+      Large Guppy_32: -1697084793
+      Large Guppy_33: 980153163
+      Large Guppy_34: 1126585502
+      Large Guppy_35: 1975067694
+      Large Guppy_36: 1450291
+      Large Guppy_37: 1284311860
+      Large Guppy_38: 1990984429
+      Large Guppy_39: 1053874430
+      Large Guppy_4: 516223550
+      Large Guppy_40: 1685679532
+      Large Guppy_41: -1770049006
+      Large Guppy_42: 2127356864
+      Large Guppy_43: 2094402541
+      Large Guppy_44: 1132592417
+      Large Guppy_45: 891525762
+      Large Guppy_46: 1722120910
+      Large Guppy_47: -942993933
+      Large Guppy_48: 827834893
+      Large Guppy_49: -370424941
+      Large Guppy_5: 1407462702
+      Large Guppy_50: -114527893
+      Large Guppy_51: 1423403343
+      Large Guppy_52: 965544428
+      Large Guppy_53: 1462779258
+      Large Guppy_54: 1363297396
+      Large Guppy_55: 1181797844
+      Large Guppy_56: 1245223593
+      Large Guppy_57: -908444040
+      Large Guppy_58: -1076463313
+      Large Guppy_59: 561735492
+      Large Guppy_6: -2127292551
+      Large Guppy_60: 632569241
+      Large Guppy_61: -269412024
+      Large Guppy_62: 1068213580
+      Large Guppy_63: -1379384723
+      Large Guppy_64: 182399622
+      Large Guppy_65: -1911389563
+      Large Guppy_66: 1364055265
+      Large Guppy_67: 505468680
+      Large Guppy_68: 1743457802
+      Large Guppy_69: -1221668245
+      Large Guppy_7: 2110737412
+      Large Guppy_8: -926683284
+      Large Guppy_9: 1258940463
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

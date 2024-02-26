@@ -1,0 +1,29 @@
+Shark.png
+size:512,256
+filter:Linear,Linear
+pma:true
+Duoi
+bounds:233,110,102,142
+offsets:1,1,104,144
+Fin tren
+bounds:337,174,100,78
+offsets:0,0,101,78
+Than
+bounds:2,64,229,188
+offsets:0,5,229,193
+Vay 1
+bounds:2,2,85,60
+offsets:1,1,87,62
+Vay 2
+bounds:337,119,53,87
+offsets:2,3,57,91
+rotate:90
+mat giua
+bounds:89,32,37,30
+mat ngoai
+bounds:233,66,42,53
+offsets:1,1,44,55
+rotate:90
+mat trong
+bounds:439,207,36,45
+offsets:1,1,38,47
